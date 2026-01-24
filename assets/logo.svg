@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <g transform="translate(10.613 10.168) scale(.27224)">
+    <circle cx="150" cy="150" r="150" fill="#e3e2db" transform="translate(-38.986 -37.35) scale(3.67326)"/>
+    <path fill="#bb494e" stroke="#000" stroke-width="4.921" d="M182.858 436.86h255.079v150.279H182.858z"/>
+    <path fill="#de6e40" stroke="#000" stroke-width="4.921" d="M587.166 181.232v255.079H436.887V181.232z"/>
+    <path fill="#36373e" stroke="#000" stroke-width="5.003" d="M587.606 436.883h249.997V587.08H587.606z"/>
+    <path fill="#4f8786" stroke="#000" stroke-width="4.921" d="M587.14 587.288v255.079H436.861V587.288z"/>
+    <path fill="#d95f5e" stroke="#000" stroke-width="5" d="M512.127 436.881h75v75h-75z"/>
+    <path fill="#ad8f40" stroke="#000" stroke-width="5" d="M512.127 512.119h75v75h-75z"/>
+    <path fill="#f2b13f" stroke="#000" stroke-width="5" d="M436.873 512.119h75v75h-75z"/>
+    <path fill="#de6e40" stroke="#000" stroke-width="5" d="M436.873 436.881h75v75h-75z"/>
+    <path fill="#e0ca9c" d="M589.627 320.257h113.022v114.124H589.627z"/>
+    <path fill="#f2b13f" d="M589.627 589.619h113.022v114.124H589.627z"/>
+    <path fill="#9f545f" d="M321.351 589.619h113.022v114.124H321.351z"/>
+    <path fill="#4f8786" d="M321.405 320.257h113.022v114.124H321.405z"/>
+    <path fill="#36373e" d="M655.293 256.417h47.356v53.882h-47.356z"/>
+    <path fill="#ad8f40" d="M655.293 713.664h47.356v53.882h-47.356z"/>
+    <path fill="#d95f5e" d="M321.405 713.701h47.356v53.882h-47.356z"/>
+    <path fill="#f2b13f" d="M321.405 256.417h47.356v53.882h-47.356z"/>
+    <path fill="#de6e40" d="M713.891 627.192h51.703v76.551h-51.703z"/>
+    <path fill="#4f8786" d="M258.406 627.192h51.703v76.551h-51.703z"/>
+    <path fill="#de6e40" d="M258.46 320.257h51.703v76.551H258.46z"/>
+    <path fill="#4f8786" d="M713.891 320.257h51.703v76.551h-51.703z"/>
+    <g fill="#bb494e">
+      <circle cx="510.704" cy="938.29" r="44.347"/>
+    </g>
+    <g fill="#de6e40" transform="rotate(-90 512.03 510.65)">
+      <circle cx="510.704" cy="938.29" r="44.347"/>
+    </g>
+    <g fill="#36373e" transform="matrix(0 -1 -1 0 1022.628 1022.68)">
+      <circle cx="510.704" cy="938.29" r="44.347"/>
+    </g>
+    <g fill="#4f8786" transform="matrix(1 0 0 -1 1.32 1027.28)">
+      <circle cx="510.704" cy="938.29" r="44.347"/>
+    </g>
+  </g>
+  <path fill="#e3e2db" d="M150 0v300a150 150 0 0 0 150-150A150 150 0 0 0 150 0Z" opacity=".155"/>
+</svg>

@@ -1,0 +1,198 @@
+group-01:
+  title: '1–13'
+  segment: ['Group', 1]
+  header: 'Comfort, misery, and the need for a mediator'
+  theme: c1
+  items:
+    - q-1
+    - q-2
+    - q-3
+    - q-4
+    - q-5
+    - q-6
+    - q-7
+    - q-8
+    - q-9
+    - q-10
+    - q-11
+    - q-12
+    - q-13
+
+group-02:
+  title: '14–26'
+  segment: ['Group', 2]
+  header: 'The God-man mediator and true faith'
+  theme: c3
+  items:
+    - q-14
+    - q-15
+    - q-16
+    - q-17
+    - q-18
+    - q-19
+    - q-20
+    - q-21
+    - q-22
+    - q-23
+    - q-24
+    - q-25
+    - q-26
+
+group-03:
+  title: '27–39'
+  segment: ['Group', 3]
+  header: 'God the Father, providence, and Christ’s incarnation'
+  theme: c5
+  items:
+    - q-27
+    - q-28
+    - q-29
+    - q-30
+    - q-31
+    - q-32
+    - q-33
+    - q-34
+    - q-35
+    - q-36
+    - q-37
+    - q-38
+    - q-39
+
+group-04:
+  title: '40–52'
+  segment: ['Group', 4]
+  header: 'Christ’s suffering, death, resurrection, and ascension'
+  theme: c7
+  items:
+    - q-40
+    - q-41
+    - q-42
+    - q-43
+    - q-44
+    - q-45
+    - q-46
+    - q-47
+    - q-48
+    - q-49
+    - q-50
+    - q-51
+    - q-52
+
+group-05:
+  title: '53–65'
+  segment: ['Group', 5]
+  header: 'Holy Spirit, church, forgiveness, and justification by faith'
+  theme: c9
+  items:
+    - q-53
+    - q-54
+    - q-55
+    - q-56
+    - q-57
+    - q-58
+    - q-59
+    - q-60
+    - q-61
+    - q-62
+    - q-63
+    - q-64
+    - q-65
+
+group-06:
+  title: '66–78'
+  segment: ['Group', 6]
+  header: 'The sacraments: baptism and the Lord’s Supper'
+  theme: c2
+  items:
+    - q-66
+    - q-67
+    - q-68
+    - q-69
+    - q-70
+    - q-71
+    - q-72
+    - q-73
+    - q-74
+    - q-75
+    - q-76
+    - q-77
+    - q-78
+
+group-07:
+  title: '79–91'
+  segment: ['Group', 7]
+  header: 'Lord’s Supper, discipline, and the beginning of gratitude'
+  theme: c4
+  items:
+    - q-79
+    - q-80
+    - q-81
+    - q-82
+    - q-83
+    - q-84
+    - q-85
+    - q-86
+    - q-87
+    - q-88
+    - q-89
+    - q-90
+    - q-91
+
+group-08:
+  title: '92–104'
+  segment: ['Group', 8]
+  header: 'The law of gratitude: love God fully'
+  theme: c6
+  items:
+    - q-92
+    - q-93
+    - q-94
+    - q-95
+    - q-96
+    - q-97
+    - q-98
+    - q-99
+    - q-100
+    - q-101
+    - q-102
+    - q-103
+    - q-104
+
+group-09:
+  title: '105–117'
+  segment: ['Group', 9]
+  header: 'Love your neighbor: commandments 6–10 and prayer’s foundation'
+  theme: c8
+  items:
+    - q-105
+    - q-106
+    - q-107
+    - q-108
+    - q-109
+    - q-110
+    - q-111
+    - q-112
+    - q-113
+    - q-114
+    - q-115
+    - q-116
+    - q-117
+
+group-10:
+  title: '118–129'
+  segment: ['Group', 10]
+  header: 'The Lord’s Prayer: dependent life before God'
+  theme: c10
+  items:
+    - q-118
+    - q-119
+    - q-120
+    - q-121
+    - q-122
+    - q-123
+    - q-124
+    - q-125
+    - q-126
+    - q-127
+    - q-128
+    - q-129

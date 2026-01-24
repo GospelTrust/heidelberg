@@ -1,0 +1,29 @@
+@forward 'default' with ( $grid-body-height: 300px );
+
+.talktext {
+  line-height: unset !important;
+  a {
+    vertical-align: 0.3em;
+    font-size: 0.7em;
+    margin-left: -0.3em;
+  }
+  .index {
+    white-space: nowrap;
+  }
+}
+
+h6 {
+  font-family: var(--font-special) !important;
+}
+
+section {
+  blockquote {
+    margin-bottom: 0.5em;
+  }
+}
+
+.course-popup {
+  .body {
+    overflow-y: auto !important;
+  }
+}

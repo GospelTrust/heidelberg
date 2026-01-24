@@ -1,0 +1,31 @@
+{% assign slug = page.path | split: "." | first | split: "/" | last %}
+{% assign sonnet = site.data.sonnets[slug] %}
+
+<div class="center-align">
+  <dl class="poem" style="max-width: 450px">
+    {%- if sonnet.size == 15 %}
+      {%- assign first_line = sonnet | first %}
+      {%- assign remaining = sonnet | slice: 1, 14 %}
+      <dd>{{ first_line }}</dd>
+    {%- else %}
+      {%- assign remaining = sonnet %}
+    {%- endif %}
+
+    {% for line in remaining %}
+      {%- assign mod = forloop.index | modulo: 4 %}
+      {%- assign style = '' %}
+
+      {%- if mod == 0 %}
+        {%- assign style = 'style="margin-bottom: 1em"' %}
+      {%- endif %}
+
+      {%- if forloop.index >= 13 %}
+        {%- assign style = 'style="margin-left: 2em"' %}
+      {%- endif %}
+
+      <dd {{ style }}>{{ line }}</dd>
+    {% endfor %}
+  </dl>
+</div>
+
+<hr class='logo' />

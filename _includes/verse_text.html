@@ -1,0 +1,41 @@
+{%- assign parts = include.ref | split: " " %}
+{%- assign limit = parts.size | minus: 1 %}
+
+{%- assign cv = parts | last %}
+{%- assign book = parts | slice: 0, limit | join: "" | downcase %}
+
+{%- assign cva = cv | split: ":" %}
+{%- assign c = cva[0] %}
+{%- if cva.size == 2 %}
+  {%- assign vs = cva[1] %}
+{%- else %}
+  {%- assign vs = nil %}
+{%- endif %}
+
+{%- assign verses = site.data.verses[book][c] %}
+{%- assign text = "" | split: "" %}
+
+{%- if vs %}
+  {%- assign vsa = vs | split: "-" %}
+  {%- assign s = vsa[0] %}
+  {%- assign text = text | push: verses[s] %}
+  {%- if vsa.size == 2 %}
+    {%- assign s = s | plus: 1 %}
+    {%- assign e = vsa[1] | plus: 0 %}
+    {%- for v in (s..e) %}
+      {%- assign ref = v | append: "" %}
+      {%- if verses[ref] %}
+        {%- assign text = text | push: verses[ref] %}
+      {%- endif %}
+    {%- endfor %}
+  {%- endif %}
+{%- else %}
+  {%- for v in verses %}
+    {%- assign ref = v | append: "" %}
+    {%- assign text = text | push: verses[ref] %}
+  {%- endfor %}
+{%- endif %}
+
+{%- if text %}
+  <blockquote>{{ text | join: " " }}</blockquote>
+{%- endif %}

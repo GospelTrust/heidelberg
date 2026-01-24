@@ -1,0 +1,55 @@
+theme: askclass-course-theme
+
+title: "Heidelberg Catechism"
+description: >
+  The Heidelberg Catechism (1563) Explore the classic Reformed confession of comfort in Christ.
+  129 questions & answers divided into 52 Lord's Days, guiding believers through misery, deliverance, and thankfulness.
+
+acc:
+  short_name: "Heidelberg"
+  color:
+    theme: "#28170b"
+    bg: "#f4e3d7"
+  url: "https://heidelberg.nissi.app"
+  categories:
+    - education
+  shortcuts:
+    - name: Title
+      url: https://heidelberg.nissi.app/session/title
+      desc: Title
+  meta:
+    apple_icon: "logo-square-300.png"
+    og_image: "logo-square-512.png"
+    shortcut:
+      favicon: "favicon.ico"
+      type: "image/png"
+      image: "logo-96.png"
+    keywords: >
+      education,
+      learning,
+      christianity
+  footer:
+    - icon: "info_i"
+      href: "/session/title"
+      text: "Title"
+
+collections_dir: content
+collections:
+  session:
+    output: true
+  segment:
+    output: true
+
+defaults:
+  - scope:
+      path: "*.html"
+    values:
+      layout: "default"
+  - scope:
+      type: "session"
+    values:
+      layout: "session"
+  - scope:
+      type: "segment"
+    values:
+      layout: "segment"

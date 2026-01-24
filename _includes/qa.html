@@ -1,0 +1,30 @@
+{%- assign slug = page.path | split: "." | first | split: "/" | last %}
+{%- assign data = site.data.questions[slug] %}
+{%- assign session = site.data.sessions[slug] %}
+
+<center>
+  <h6>Day {{ session.day }} &bull; Question {{ session.sequence }}</h6>
+</center>
+
+<section>
+  {% include bubble.html text=data.question side='left' index=session.sequence %}
+
+  {%- for line in data.answer -%}
+    {% include bubble.html text=line side='right' slug=slug %}
+  {%- endfor -%}
+</section>
+
+----
+
+<section>
+  {%- for r in data.refs -%}
+  <h6>Footnote {{ forloop.index }}</h6>
+    {%- for v in r -%}
+    <details data-ref="{{ v }}">
+      <summary>{{ v }}</summary>
+      {%- include verse_text.html ref=v %}
+    </details>
+    {%- endfor -%}
+  {%- endfor -%}
+</section>
+

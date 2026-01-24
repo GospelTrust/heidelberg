@@ -1,0 +1,13 @@
+<div class="bubble-container {{ include.side }}">
+  <div class="talk-bubble {{ include.side }} tri-right {{ include.side }}-in border round">
+    <div class="talktext">
+      {%- if include.index %}
+      <div class="index">{{ include.index }}</div>
+      {%- endif %}
+      {% assign words = include.text | replace: '\', '<br/>' | split: " " %}
+      {%- for word in words %}
+        {%- include word.html word=word slug=include.slug %}
+      {% endfor -%}
+    </div>
+  </div>
+</div>

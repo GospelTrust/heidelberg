@@ -1,0 +1,31 @@
+{%- assign session = site.data.sessions[include.slug] %}
+{%- assign question = site.data.questions[include.slug] %}
+{%- assign word = include.word %}
+{%- assign str = word | remove_first: '^' %}
+
+{%- if str == word %}
+  {{ word }}
+{%- else -%}
+  {%- assign w = str
+     | remove_first: '.'
+     | remove_first: ','
+     | remove_first: ';'
+     | remove_first: '!'
+     | remove_first: '?'
+   %}
+  {%- if w == str %}
+    {%- assign punct = '' -%}
+  {%- else %}
+    {%- assign punct = str | slice: -1, 1 -%}
+  {% endif -%}
+
+  {%- assign ridx = w | minus: 1 %}
+  <a href="#"
+    data-word-click="wordClick"
+    data-arg-index="{{ ridx }}"
+    data-arg-session="{{ session.header }}"
+    data-arg-question="{{ session.sequence }}"
+    data-arg-day="{{ session.day }}"
+    data-arg-verses="{{ question.refs[ridx] | join: '; ' }}"
+  >{{ w }}</a>{{ punct }}
+{% endif -%}

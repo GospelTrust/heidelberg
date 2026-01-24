@@ -1,0 +1,1424 @@
+title:
+  header: 'Title'
+  title: 'Heidelberg Catechism'
+  segment: 'group-01'
+  url: 'title'
+
+q-1:
+  type: 'Dialog'
+  width: max
+  header: 'Question 1'
+  segment: 'group-01'
+  title: 'Our only comfort in life and death'
+  icon: web_stories
+  sequence: 1
+  day: 1
+  url: 'q-1'
+
+q-2:
+  type: 'Dialog'
+  width: max
+  header: 'Question 2'
+  segment: 'group-01'
+  title: 'Three truths needed for real comfort'
+  icon: web_stories
+  sequence: 2
+  day: 1
+  url: 'q-2'
+
+q-3:
+  type: 'Dialog'
+  width: max
+  header: 'Question 3'
+  segment: 'group-01'
+  title: 'The law reveals our deep misery'
+  icon: web_stories
+  sequence: 3
+  day: 2
+  url: 'q-3'
+
+q-4:
+  type: 'Dialog'
+  width: max
+  header: 'Question 4'
+  segment: 'group-01'
+  title: 'Love God and neighbor fully'
+  icon: web_stories
+  sequence: 4
+  day: 2
+  url: 'q-4'
+
+q-5:
+  type: 'Dialog'
+  width: max
+  header: 'Question 5'
+  segment: 'group-01'
+  title: 'We cannot keep God’s law perfectly'
+  icon: web_stories
+  sequence: 5
+  day: 2
+  url: 'q-5'
+
+q-6:
+  type: 'Dialog'
+  width: max
+  header: 'Question 6'
+  segment: 'group-01'
+  title: 'God created us good, not sinful'
+  icon: web_stories
+  sequence: 6
+  day: 3
+  url: 'q-6'
+
+q-7:
+  type: 'Dialog'
+  width: max
+  header: 'Question 7'
+  segment: 'group-01'
+  title: 'Sin spread from Adam to all'
+  icon: web_stories
+  sequence: 7
+  day: 3
+  url: 'q-7'
+
+q-8:
+  type: 'Dialog'
+  width: max
+  header: 'Question 8'
+  segment: 'group-01'
+  title: 'Corruption infects every part of us'
+  icon: web_stories
+  sequence: 8
+  day: 3
+  url: 'q-8'
+
+q-9:
+  type: 'Dialog'
+  width: max
+  header: 'Question 9'
+  segment: 'group-01'
+  title: 'God is just in holding us accountable'
+  icon: web_stories
+  sequence: 9
+  day: 4
+  url: 'q-9'
+
+q-10:
+  type: 'Dialog'
+  width: max
+  header: 'Question 10'
+  segment: 'group-01'
+  title: 'God will punish all disobedience'
+  icon: web_stories
+  sequence: 10
+  day: 4
+  url: 'q-10'
+
+q-11:
+  type: 'Dialog'
+  width: max
+  header: 'Question 11'
+  segment: 'group-01'
+  title: 'God remains merciful despite justice'
+  icon: web_stories
+  sequence: 11
+  day: 4
+  url: 'q-11'
+
+q-12:
+  type: 'Dialog'
+  width: max
+  header: 'Question 12'
+  segment: 'group-01'
+  title: 'We deserve punishment for our sin'
+  icon: web_stories
+  sequence: 12
+  day: 5
+  url: 'q-12'
+
+q-13:
+  type: 'Dialog'
+  width: max
+  header: 'Question 13'
+  segment: 'group-01'
+  title: 'We cannot pay our own debt to God'
+  icon: web_stories
+  sequence: 13
+  day: 5
+  url: 'q-13'
+
+q-14:
+  type: 'Dialog'
+  width: max
+  header: 'Question 14'
+  segment: 'group-02'
+  title: 'No mere creature can redeem us'
+  icon: web_stories
+  sequence: 14
+  day: 6
+  url: 'q-14'
+
+q-15:
+  type: 'Dialog'
+  width: max
+  header: 'Question 15'
+  segment: 'group-02'
+  title: 'We need a true God-man mediator'
+  icon: web_stories
+  sequence: 15
+  day: 6
+  url: 'q-15'
+
+q-16:
+  type: 'Dialog'
+  width: max
+  header: 'Question 16'
+  segment: 'group-02'
+  title: 'The mediator must be truly human'
+  icon: web_stories
+  sequence: 16
+  day: 7
+  url: 'q-16'
+
+q-17:
+  type: 'Dialog'
+  width: max
+  header: 'Question 17'
+  segment: 'group-02'
+  title: 'The mediator must also be truly God'
+  icon: web_stories
+  sequence: 17
+  day: 7
+  url: 'q-17'
+
+q-18:
+  type: 'Dialog'
+  width: max
+  header: 'Question 18'
+  segment: 'group-02'
+  title: 'Jesus Christ is our mediator'
+  icon: web_stories
+  sequence: 18
+  day: 7
+  url: 'q-18'
+
+q-19:
+  type: 'Dialog'
+  width: max
+  header: 'Question 19'
+  segment: 'group-02'
+  title: 'Scripture reveals this mediator'
+  icon: web_stories
+  sequence: 19
+  day: 7
+  url: 'q-19'
+
+q-20:
+  type: 'Dialog'
+  width: max
+  header: 'Question 20'
+  segment: 'group-02'
+  title: 'Not all receive Christ’s salvation'
+  icon: web_stories
+  sequence: 20
+  day: 7
+  url: 'q-20'
+
+q-21:
+  type: 'Dialog'
+  width: max
+  header: 'Question 21'
+  segment: 'group-02'
+  title: 'True faith trusts Christ alone'
+  icon: web_stories
+  sequence: 21
+  day: 7
+  url: 'q-21'
+
+q-22:
+  type: 'Dialog'
+  width: max
+  header: 'Question 22'
+  segment: 'group-02'
+  title: 'We believe all in the Apostles’ Creed'
+  icon: web_stories
+  sequence: 22
+  day: 7
+  url: 'q-22'
+
+q-23:
+  type: 'Dialog'
+  width: max
+  header: 'Question 23'
+  segment: 'group-02'
+  title: 'The twelve articles of our faith'
+  icon: web_stories
+  sequence: 23
+  day: 7
+  url: 'q-23'
+
+q-24:
+  type: 'Dialog'
+  width: max
+  header: 'Question 24'
+  segment: 'group-02'
+  title: 'Three parts of the Apostles’ Creed'
+  icon: web_stories
+  sequence: 24
+  day: 8
+  url: 'q-24'
+
+q-25:
+  type: 'Dialog'
+  width: max
+  header: 'Question 25'
+  segment: 'group-02'
+  title: 'One God in three persons'
+  icon: web_stories
+  sequence: 25
+  day: 8
+  url: 'q-25'
+
+q-26:
+  type: 'Dialog'
+  width: max
+  header: 'Question 26'
+  segment: 'group-02'
+  title: 'God the Father, our Creator'
+  icon: web_stories
+  sequence: 26
+  day: 9
+  url: 'q-26'
+
+q-27:
+  type: 'Dialog'
+  width: max
+  header: 'Question 27'
+  segment: 'group-03'
+  title: 'God’s providence governs all'
+  icon: web_stories
+  sequence: 27
+  day: 10
+  url: 'q-27'
+
+q-28:
+  type: 'Dialog'
+  width: max
+  header: 'Question 28'
+  segment: 'group-03'
+  title: 'Comfort from God’s fatherly care'
+  icon: web_stories
+  sequence: 28
+  day: 10
+  url: 'q-28'
+
+q-29:
+  type: 'Dialog'
+  width: max
+  header: 'Question 29'
+  segment: 'group-03'
+  title: 'Jesus means Savior from sin'
+  icon: web_stories
+  sequence: 29
+  day: 11
+  url: 'q-29'
+
+q-30:
+  type: 'Dialog'
+  width: max
+  header: 'Question 30'
+  segment: 'group-03'
+  title: 'Only Christ saves—no other refuge'
+  icon: web_stories
+  sequence: 30
+  day: 11
+  url: 'q-30'
+
+q-31:
+  type: 'Dialog'
+  width: max
+  header: 'Question 31'
+  segment: 'group-03'
+  title: 'Christ our anointed prophet, priest, king'
+  icon: web_stories
+  sequence: 31
+  day: 12
+  url: 'q-31'
+
+q-32:
+  type: 'Dialog'
+  width: max
+  header: 'Question 32'
+  segment: 'group-03'
+  title: 'We are Christians by union with Christ'
+  icon: web_stories
+  sequence: 32
+  day: 12
+  url: 'q-32'
+
+q-33:
+  type: 'Dialog'
+  width: max
+  header: 'Question 33'
+  segment: 'group-03'
+  title: 'Christ is God’s only begotten Son'
+  icon: web_stories
+  sequence: 33
+  day: 13
+  url: 'q-33'
+
+q-34:
+  type: 'Dialog'
+  width: max
+  header: 'Question 34'
+  segment: 'group-03'
+  title: 'Christ is our rightful Lord'
+  icon: web_stories
+  sequence: 34
+  day: 13
+  url: 'q-34'
+
+q-35:
+  type: 'Dialog'
+  width: max
+  header: 'Question 35'
+  segment: 'group-03'
+  title: 'Christ conceived by the Holy Spirit'
+  icon: web_stories
+  sequence: 35
+  day: 14
+  url: 'q-35'
+
+q-36:
+  type: 'Dialog'
+  width: max
+  header: 'Question 36'
+  segment: 'group-03'
+  title: 'Christ’s birth makes us holy'
+  icon: web_stories
+  sequence: 36
+  day: 14
+  url: 'q-36'
+
+q-37:
+  type: 'Dialog'
+  width: max
+  header: 'Question 37'
+  segment: 'group-03'
+  title: 'Christ suffered under God’s wrath'
+  icon: web_stories
+  sequence: 37
+  day: 15
+  url: 'q-37'
+
+q-38:
+  type: 'Dialog'
+  width: max
+  header: 'Question 38'
+  segment: 'group-03'
+  title: 'Crucified under Pilate to bear curse'
+  icon: web_stories
+  sequence: 38
+  day: 15
+  url: 'q-38'
+
+q-39:
+  type: 'Dialog'
+  width: max
+  header: 'Question 39'
+  segment: 'group-03'
+  title: 'Cross shows curse of our sin'
+  icon: web_stories
+  sequence: 39
+  day: 15
+  url: 'q-39'
+
+q-40:
+  type: 'Dialog'
+  width: max
+  header: 'Question 40'
+  segment: 'group-04'
+  title: 'Christ died to satisfy God’s justice'
+  icon: web_stories
+  sequence: 40
+  day: 16
+  url: 'q-40'
+
+q-41:
+  type: 'Dialog'
+  width: max
+  header: 'Question 41'
+  segment: 'group-04'
+  title: 'Burial confirms real death'
+  icon: web_stories
+  sequence: 41
+  day: 16
+  url: 'q-41'
+
+q-42:
+  type: 'Dialog'
+  width: max
+  header: 'Question 42'
+  segment: 'group-04'
+  title: 'We die to sin through Christ’s death'
+  icon: web_stories
+  sequence: 42
+  day: 16
+  url: 'q-42'
+
+q-43:
+  type: 'Dialog'
+  width: max
+  header: 'Question 43'
+  segment: 'group-04'
+  title: 'Christ’s death mortifies our old nature'
+  icon: web_stories
+  sequence: 43
+  day: 16
+  url: 'q-43'
+
+q-44:
+  type: 'Dialog'
+  width: max
+  header: 'Question 44'
+  segment: 'group-04'
+  title: 'Descent into hell assures victory'
+  icon: web_stories
+  sequence: 44
+  day: 16
+  url: 'q-44'
+
+q-45:
+  type: 'Dialog'
+  width: max
+  header: 'Question 45'
+  segment: 'group-04'
+  title: 'Resurrection gives new life'
+  icon: web_stories
+  sequence: 45
+  day: 17
+  url: 'q-45'
+
+q-46:
+  type: 'Dialog'
+  width: max
+  header: 'Question 46'
+  segment: 'group-04'
+  title: 'Ascension means Christ reigns'
+  icon: web_stories
+  sequence: 46
+  day: 18
+  url: 'q-46'
+
+q-47:
+  type: 'Dialog'
+  width: max
+  header: 'Question 47'
+  segment: 'group-04'
+  title: 'Christ remains with us by Spirit'
+  icon: web_stories
+  sequence: 47
+  day: 18
+  url: 'q-47'
+
+q-48:
+  type: 'Dialog'
+  width: max
+  header: 'Question 48'
+  segment: 'group-04'
+  title: 'Christ’s natures united, not divided'
+  icon: web_stories
+  sequence: 48
+  day: 18
+  url: 'q-48'
+
+q-49:
+  type: 'Dialog'
+  width: max
+  header: 'Question 49'
+  segment: 'group-04'
+  title: 'Ascension secures our heavenly hope'
+  icon: web_stories
+  sequence: 49
+  day: 19
+  url: 'q-49'
+
+q-50:
+  type: 'Dialog'
+  width: max
+  header: 'Question 50'
+  segment: 'group-04'
+  title: 'Christ reigns at God’s right hand'
+  icon: web_stories
+  sequence: 50
+  day: 19
+  url: 'q-50'
+
+q-51:
+  type: 'Dialog'
+  width: max
+  header: 'Question 51'
+  segment: 'group-04'
+  title: 'Christ our head defends his body'
+  icon: web_stories
+  sequence: 51
+  day: 19
+  url: 'q-51'
+
+q-52:
+  type: 'Dialog'
+  width: max
+  header: 'Question 52'
+  segment: 'group-04'
+  title: 'Christ’s return brings final comfort'
+  icon: web_stories
+  sequence: 52
+  day: 19
+  url: 'q-52'
+
+q-53:
+  type: 'Dialog'
+  width: max
+  header: 'Question 53'
+  segment: 'group-05'
+  title: 'The Holy Spirit makes us alive'
+  icon: web_stories
+  sequence: 53
+  day: 20
+  url: 'q-53'
+
+q-54:
+  type: 'Dialog'
+  width: max
+  header: 'Question 54'
+  segment: 'group-05'
+  title: 'The church is God’s chosen people'
+  icon: web_stories
+  sequence: 54
+  day: 21
+  url: 'q-54'
+
+q-55:
+  type: 'Dialog'
+  width: max
+  header: 'Question 55'
+  segment: 'group-05'
+  title: 'Saints share in Christ together'
+  icon: web_stories
+  sequence: 55
+  day: 21
+  url: 'q-55'
+
+q-56:
+  type: 'Dialog'
+  width: max
+  header: 'Question 56'
+  segment: 'group-05'
+  title: 'Forgiveness covers all our sins'
+  icon: web_stories
+  sequence: 56
+  day: 22
+  url: 'q-56'
+
+q-57:
+  type: 'Dialog'
+  width: max
+  header: 'Question 57'
+  segment: 'group-05'
+  title: 'Resurrection brings perfect bodies'
+  icon: web_stories
+  sequence: 57
+  day: 22
+  url: 'q-57'
+
+q-58:
+  type: 'Dialog'
+  width: max
+  header: 'Question 58'
+  segment: 'group-05'
+  title: 'Eternal life is our joyful hope'
+  icon: web_stories
+  sequence: 58
+  day: 22
+  url: 'q-58'
+
+q-59:
+  type: 'Dialog'
+  width: max
+  header: 'Question 59'
+  segment: 'group-05'
+  title: 'This comfort makes us righteous'
+  icon: web_stories
+  sequence: 59
+  day: 23
+  url: 'q-59'
+
+q-60:
+  type: 'Dialog'
+  width: max
+  header: 'Question 60'
+  segment: 'group-05'
+  title: 'Righteous only by Christ’s righteousness'
+  icon: web_stories
+  sequence: 60
+  day: 23
+  url: 'q-60'
+
+q-61:
+  type: 'Dialog'
+  width: max
+  header: 'Question 61'
+  segment: 'group-05'
+  title: 'Faith alone receives Christ’s merit'
+  icon: web_stories
+  sequence: 61
+  day: 23
+  url: 'q-61'
+
+q-62:
+  type: 'Dialog'
+  width: max
+  header: 'Question 62'
+  segment: 'group-05'
+  title: 'Our works cannot justify us'
+  icon: web_stories
+  sequence: 62
+  day: 24
+  url: 'q-62'
+
+q-63:
+  type: 'Dialog'
+  width: max
+  header: 'Question 63'
+  segment: 'group-05'
+  title: 'Grace does not make us careless'
+  icon: web_stories
+  sequence: 63
+  day: 24
+  url: 'q-63'
+
+q-64:
+  type: 'Dialog'
+  width: max
+  header: 'Question 64'
+  segment: 'group-05'
+  title: 'Grace produces holiness, not license'
+  icon: web_stories
+  sequence: 64
+  day: 24
+  url: 'q-64'
+
+q-65:
+  type: 'Dialog'
+  width: max
+  header: 'Question 65'
+  segment: 'group-05'
+  title: 'Faith comes by the Holy Spirit'
+  icon: web_stories
+  sequence: 65
+  day: 25
+  url: 'q-65'
+
+q-66:
+  type: 'Dialog'
+  width: max
+  header: 'Question 66'
+  segment: 'group-06'
+  title: 'Sacraments are visible gospel signs'
+  icon: web_stories
+  sequence: 66
+  day: 25
+  url: 'q-66'
+
+q-67:
+  type: 'Dialog'
+  width: max
+  header: 'Question 67'
+  segment: 'group-06'
+  title: 'Word and sacraments point to Christ'
+  icon: web_stories
+  sequence: 67
+  day: 25
+  url: 'q-67'
+
+q-68:
+  type: 'Dialog'
+  width: max
+  header: 'Question 68'
+  segment: 'group-06'
+  title: 'Christ gave two sacraments'
+  icon: web_stories
+  sequence: 68
+  day: 25
+  url: 'q-68'
+
+q-69:
+  type: 'Dialog'
+  width: max
+  header: 'Question 69'
+  segment: 'group-06'
+  title: 'Baptism washes us in Christ’s blood'
+  icon: web_stories
+  sequence: 69
+  day: 26
+  url: 'q-69'
+
+q-70:
+  type: 'Dialog'
+  width: max
+  header: 'Question 70'
+  segment: 'group-06'
+  title: 'Washed by Christ’s blood and Spirit'
+  icon: web_stories
+  sequence: 70
+  day: 26
+  url: 'q-70'
+
+q-71:
+  type: 'Dialog'
+  width: max
+  header: 'Question 71'
+  segment: 'group-06'
+  title: 'Christ promises cleansing in baptism'
+  icon: web_stories
+  sequence: 71
+  day: 26
+  url: 'q-71'
+
+q-72:
+  type: 'Dialog'
+  width: max
+  header: 'Question 72'
+  segment: 'group-06'
+  title: 'Water is sign, not the cleansing itself'
+  icon: web_stories
+  sequence: 72
+  day: 26
+  url: 'q-72'
+
+q-73:
+  type: 'Dialog'
+  width: max
+  header: 'Question 73'
+  segment: 'group-06'
+  title: 'Baptism called washing of regeneration'
+  icon: web_stories
+  sequence: 73
+  day: 26
+  url: 'q-73'
+
+q-74:
+  type: 'Dialog'
+  width: max
+  header: 'Question 74'
+  segment: 'group-06'
+  title: 'Infants belong in the covenant too'
+  icon: web_stories
+  sequence: 74
+  day: 27
+  url: 'q-74'
+
+q-75:
+  type: 'Dialog'
+  width: max
+  header: 'Question 75'
+  segment: 'group-06'
+  title: 'Lord’s Supper seals Christ’s sacrifice'
+  icon: web_stories
+  sequence: 75
+  day: 28
+  url: 'q-75'
+
+q-76:
+  type: 'Dialog'
+  width: max
+  header: 'Question 76'
+  segment: 'group-06'
+  title: 'Eating Christ’s body by faith'
+  icon: web_stories
+  sequence: 76
+  day: 29
+  url: 'q-76'
+
+q-77:
+  type: 'Dialog'
+  width: max
+  header: 'Question 77'
+  segment: 'group-06'
+  title: 'Christ nourishes us in the Supper'
+  icon: web_stories
+  sequence: 77
+  day: 29
+  url: 'q-77'
+
+q-78:
+  type: 'Dialog'
+  width: max
+  header: 'Question 78'
+  segment: 'group-06'
+  title: 'Bread remains bread, not changed'
+  icon: web_stories
+  sequence: 78
+  day: 29
+  url: 'q-78'
+
+q-79:
+  type: 'Dialog'
+  width: max
+  header: 'Question 79'
+  segment: 'group-07'
+  title: 'Bread called body by sacramental union'
+  icon: web_stories
+  sequence: 79
+  day: 29
+  url: 'q-79'
+
+q-80:
+  type: 'Dialog'
+  width: max
+  header: 'Question 80'
+  segment: 'group-07'
+  title: 'Lord’s Supper differs from the mass'
+  icon: web_stories
+  sequence: 80
+  day: 30
+  url: 'q-80'
+
+q-81:
+  type: 'Dialog'
+  width: max
+  header: 'Question 81'
+  segment: 'group-07'
+  title: 'Believers who examine themselves come'
+  icon: web_stories
+  sequence: 81
+  day: 30
+  url: 'q-81'
+
+q-82:
+  type: 'Dialog'
+  width: max
+  header: 'Question 82'
+  segment: 'group-07'
+  title: 'Unbelievers excluded from the table'
+  icon: web_stories
+  sequence: 82
+  day: 30
+  url: 'q-82'
+
+q-83:
+  type: 'Dialog'
+  width: max
+  header: 'Question 83'
+  segment: 'group-07'
+  title: 'Keys of the kingdom: preaching and discipline'
+  icon: web_stories
+  sequence: 83
+  day: 31
+  url: 'q-83'
+
+q-84:
+  type: 'Dialog'
+  width: max
+  header: 'Question 84'
+  segment: 'group-07'
+  title: 'Gospel preaching opens the kingdom'
+  icon: web_stories
+  sequence: 84
+  day: 31
+  url: 'q-84'
+
+q-85:
+  type: 'Dialog'
+  width: max
+  header: 'Question 85'
+  segment: 'group-07'
+  title: 'Discipline protects the church'
+  icon: web_stories
+  sequence: 85
+  day: 31
+  url: 'q-85'
+
+q-86:
+  type: 'Dialog'
+  width: max
+  header: 'Question 86'
+  segment: 'group-07'
+  title: 'Good works flow from gratitude'
+  icon: web_stories
+  sequence: 86
+  day: 32
+  url: 'q-86'
+
+q-87:
+  type: 'Dialog'
+  width: max
+  header: 'Question 87'
+  segment: 'group-07'
+  title: 'Unrepentant life shows no true faith'
+  icon: web_stories
+  sequence: 87
+  day: 32
+  url: 'q-87'
+
+q-88:
+  type: 'Dialog'
+  width: max
+  header: 'Question 88'
+  segment: 'group-07'
+  title: 'Conversion: dying and rising anew'
+  icon: web_stories
+  sequence: 88
+  day: 33
+  url: 'q-88'
+
+q-89:
+  type: 'Dialog'
+  width: max
+  header: 'Question 89'
+  segment: 'group-07'
+  title: 'Mortifying the old sinful nature'
+  icon: web_stories
+  sequence: 89
+  day: 33
+  url: 'q-89'
+
+q-90:
+  type: 'Dialog'
+  width: max
+  header: 'Question 90'
+  segment: 'group-07'
+  title: 'Quickened to live for God'
+  icon: web_stories
+  sequence: 90
+  day: 33
+  url: 'q-90'
+
+q-91:
+  type: 'Dialog'
+  width: max
+  header: 'Question 91'
+  segment: 'group-07'
+  title: 'Good works done in faith for God’s glory'
+  icon: web_stories
+  sequence: 91
+  day: 33
+  url: 'q-91'
+
+q-92:
+  type: 'Dialog'
+  width: max
+  header: 'Question 92'
+  segment: 'group-08'
+  title: 'God’s moral law in the Ten Commandments'
+  icon: web_stories
+  sequence: 92
+  day: 34
+  url: 'q-92'
+
+q-93:
+  type: 'Dialog'
+  width: max
+  header: 'Question 93'
+  segment: 'group-08'
+  title: 'Two tables: Godward and manward love'
+  icon: web_stories
+  sequence: 93
+  day: 34
+  url: 'q-93'
+
+q-94:
+  type: 'Dialog'
+  width: max
+  header: 'Question 94'
+  segment: 'group-08'
+  title: 'Worship God alone with all we are'
+  icon: web_stories
+  sequence: 94
+  day: 36
+  url: 'q-94'
+
+q-95:
+  type: 'Dialog'
+  width: max
+  header: 'Question 95'
+  segment: 'group-08'
+  title: 'Idolatry trusts anything besides God'
+  icon: web_stories
+  sequence: 95
+  day: 36
+  url: 'q-95'
+
+q-96:
+  type: 'Dialog'
+  width: max
+  header: 'Question 96'
+  segment: 'group-08'
+  title: 'No images in worship of God'
+  icon: web_stories
+  sequence: 96
+  day: 37
+  url: 'q-96'
+
+q-97:
+  type: 'Dialog'
+  width: max
+  header: 'Question 97'
+  segment: 'group-08'
+  title: 'God forbids all images of himself'
+  icon: web_stories
+  sequence: 97
+  day: 37
+  url: 'q-97'
+
+q-98:
+  type: 'Dialog'
+  width: max
+  header: 'Question 98'
+  segment: 'group-08'
+  title: 'Images not helpful for teaching faith'
+  icon: web_stories
+  sequence: 98
+  day: 37
+  url: 'q-98'
+
+q-99:
+  type: 'Dialog'
+  width: max
+  header: 'Question 99'
+  segment: 'group-08'
+  title: 'Use God’s name reverently'
+  icon: web_stories
+  sequence: 99
+  day: 37
+  url: 'q-99'
+
+q-100:
+  type: 'Dialog'
+  width: max
+  header: 'Question 100'
+  segment: 'group-08'
+  title: 'Profaning God’s name provokes wrath'
+  icon: web_stories
+  sequence: 100
+  day: 37
+  url: 'q-100'
+
+q-101:
+  type: 'Dialog'
+  width: max
+  header: 'Question 101'
+  segment: 'group-08'
+  title: 'Swearing rightly in God’s name allowed'
+  icon: web_stories
+  sequence: 101
+  day: 37
+  url: 'q-101'
+
+q-102:
+  type: 'Dialog'
+  width: max
+  header: 'Question 102'
+  segment: 'group-08'
+  title: 'No swearing by saints or creatures'
+  icon: web_stories
+  sequence: 102
+  day: 37
+  url: 'q-102'
+
+q-103:
+  type: 'Dialog'
+  width: max
+  header: 'Question 103'
+  segment: 'group-08'
+  title: 'Keep the Lord’s Day holy'
+  icon: web_stories
+  sequence: 103
+  day: 38
+  url: 'q-103'
+
+q-104:
+  type: 'Dialog'
+  width: max
+  header: 'Question 104'
+  segment: 'group-08'
+  title: 'Honor parents and God-given authority'
+  icon: web_stories
+  sequence: 104
+  day: 39
+  url: 'q-104'
+
+q-105:
+  type: 'Dialog'
+  width: max
+  header: 'Question 105'
+  segment: 'group-09'
+  title: 'Do not murder—protect life'
+  icon: web_stories
+  sequence: 105
+  day: 40
+  url: 'q-105'
+
+q-106:
+  type: 'Dialog'
+  width: max
+  header: 'Question 106'
+  segment: 'group-09'
+  title: 'Murder includes anger and hatred'
+  icon: web_stories
+  sequence: 106
+  day: 40
+  url: 'q-106'
+
+q-107:
+  type: 'Dialog'
+  width: max
+  header: 'Question 107'
+  segment: 'group-09'
+  title: 'Love our neighbor as ourselves'
+  icon: web_stories
+  sequence: 107
+  day: 40
+  url: 'q-107'
+
+q-108:
+  type: 'Dialog'
+  width: max
+  header: 'Question 108'
+  segment: 'group-09'
+  title: 'Chastity in body and mind'
+  icon: web_stories
+  sequence: 108
+  day: 41
+  url: 'q-108'
+
+q-109:
+  type: 'Dialog'
+  width: max
+  header: 'Question 109'
+  segment: 'group-09'
+  title: 'All impurity forbidden by God'
+  icon: web_stories
+  sequence: 109
+  day: 41
+  url: 'q-109'
+
+q-110:
+  type: 'Dialog'
+  width: max
+  header: 'Question 110'
+  segment: 'group-09'
+  title: 'No stealing—honest work instead'
+  icon: web_stories
+  sequence: 110
+  day: 42
+  url: 'q-110'
+
+q-111:
+  type: 'Dialog'
+  width: max
+  header: 'Question 111'
+  segment: 'group-09'
+  title: 'Promote neighbor’s good and advantage'
+  icon: web_stories
+  sequence: 111
+  day: 42
+  url: 'q-111'
+
+q-112:
+  type: 'Dialog'
+  width: max
+  header: 'Question 112'
+  segment: 'group-09'
+  title: 'Speak truth and defend neighbor’s name'
+  icon: web_stories
+  sequence: 112
+  day: 43
+  url: 'q-112'
+
+q-113:
+  type: 'Dialog'
+  width: max
+  header: 'Question 113'
+  segment: 'group-09'
+  title: 'No coveting—content with God’s will'
+  icon: web_stories
+  sequence: 113
+  day: 44
+  url: 'q-113'
+
+q-114:
+  type: 'Dialog'
+  width: max
+  header: 'Question 114'
+  segment: 'group-09'
+  title: 'Believers still battle indwelling sin'
+  icon: web_stories
+  sequence: 114
+  day: 44
+  url: 'q-114'
+
+q-115:
+  type: 'Dialog'
+  width: max
+  header: 'Question 115'
+  segment: 'group-09'
+  title: 'Law shows our need of Christ daily'
+  icon: web_stories
+  sequence: 115
+  day: 44
+  url: 'q-115'
+
+q-116:
+  type: 'Dialog'
+  width: max
+  header: 'Question 116'
+  segment: 'group-10'
+  title: 'Prayer is essential for believers'
+  icon: web_stories
+  sequence: 116
+  day: 45
+  url: 'q-116'
+
+q-117:
+  type: 'Dialog'
+  width: max
+  header: 'Question 117'
+  segment: 'group-10'
+  title: 'Prayer must come from the heart'
+  icon: web_stories
+  sequence: 117
+  day: 45
+  url: 'q-117'
+
+q-118:
+  type: 'Dialog'
+  width: max
+  header: 'Question 118'
+  segment: 'group-10'
+  title: 'Ask for all things according to God’s will'
+  icon: web_stories
+  sequence: 118
+  day: 45
+  url: 'q-118'
+
+q-119:
+  type: 'Dialog'
+  width: max
+  header: 'Question 119'
+  segment: 'group-10'
+  title: 'The Lord’s Prayer teaches us how'
+  icon: web_stories
+  sequence: 119
+  day: 45
+  url: 'q-119'
+
+q-120:
+  type: 'Dialog'
+  width: max
+  header: 'Question 120'
+  segment: 'group-10'
+  title: 'We pray “Our Father” with confidence'
+  icon: web_stories
+  sequence: 120
+  day: 46
+  url: 'q-120'
+
+q-121:
+  type: 'Dialog'
+  width: max
+  header: 'Question 121'
+  segment: 'group-10'
+  title: '“Our” reminds us we pray together'
+  icon: web_stories
+  sequence: 121
+  day: 46
+  url: 'q-121'
+
+q-122:
+  type: 'Dialog'
+  width: max
+  header: 'Question 122'
+  segment: 'group-10'
+  title: 'Hallowed be your name – first petition'
+  icon: web_stories
+  sequence: 122
+  day: 46
+  url: 'q-122'
+
+q-123:
+  type: 'Dialog'
+  width: max
+  header: 'Question 123'
+  segment: 'group-10'
+  title: 'Your kingdom come – second petition'
+  icon: web_stories
+  sequence: 123
+  day: 47
+  url: 'q-123'
+
+q-124:
+  type: 'Dialog'
+  width: max
+  header: 'Question 124'
+  segment: 'group-10'
+  title: 'Your will be done – third petition'
+  icon: web_stories
+  sequence: 124
+  day: 48
+  url: 'q-124'
+
+q-125:
+  type: 'Dialog'
+  width: max
+  header: 'Question 125'
+  segment: 'group-10'
+  title: 'Give us daily bread – fourth petition'
+  icon: web_stories
+  sequence: 125
+  day: 49
+  url: 'q-125'
+
+q-126:
+  type: 'Dialog'
+  width: max
+  header: 'Question 126'
+  segment: 'group-10'
+  title: 'Forgive us our debts – fifth petition'
+  icon: web_stories
+  sequence: 126
+  day: 50
+  url: 'q-126'
+
+q-127:
+  type: 'Dialog'
+  width: max
+  header: 'Question 127'
+  segment: 'group-10'
+  title: 'Lead us not into temptation – sixth petition'
+  icon: web_stories
+  sequence: 127
+  day: 51
+  url: 'q-127'
+
+q-128:
+  type: 'Dialog'
+  width: max
+  header: 'Question 128'
+  segment: 'group-10'
+  title: 'For yours is the kingdom – doxology'
+  icon: web_stories
+  sequence: 128
+  day: 52
+  url: 'q-128'
+
+q-129:
+  type: 'Dialog'
+  width: max
+  header: 'Question 129'
+  segment: 'group-10'
+  title: 'Amen means our confident yes'
+  icon: web_stories
+  sequence: 129
+  day: 52
+  url: 'q-129'

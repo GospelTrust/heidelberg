@@ -1,0 +1,27 @@
+<script>
+  function getText(r) {
+    const data = [];
+    for (const addr of r.split('; ')) {
+      const bq = document.querySelector(`details[data-ref="${addr}"] blockquote`);
+      data.push(`
+        <strong>${addr}</strong>
+        <blockquote>${bq.textContent}</blockquote>
+      `);
+    }
+    return data.join("\n");
+  }
+
+  function wordClick(_event, _link, args) {
+    const text = getText(args.verses);
+    const footnote = parseInt(args.index) + 1;
+    const header = `${args.session}, Footnote ${footnote}`
+    const body = `
+      <h4>Footnote ${footnote}</h4>
+      ${text}
+      <div class="item">
+        Day ${args.day}, Question ${args.question}
+      </div>
+    `;
+    showPopup(header, body);
+  }
+</script>
