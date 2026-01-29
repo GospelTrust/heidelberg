@@ -8,6 +8,9 @@
 {%- assign c = cva[0] %}
 {%- if cva.size == 2 %}
   {%- assign vs = cva[1] %}
+{%- elsif book == 'jude' %}
+  {%- assign vs = c %}
+  {%- assign c = "1" %}
 {%- else %}
   {%- assign vs = nil %}
 {%- endif %}
@@ -37,5 +40,6 @@
 {%- endif %}
 
 {%- if text %}
+  <summary>{{ site.data.verses[book].bookName }} {{ cv }}</summary>
   <blockquote>{{ text | join: " " }}</blockquote>
 {%- endif %}

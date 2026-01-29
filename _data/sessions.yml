@@ -1422,3 +1422,575 @@ q-129:
   sequence: 129
   day: 52
   url: 'q-129'
+
+day-1:
+  type: 'Dialog'
+  width: max
+  header: 'Day 1'
+  segment: 'series-01'
+  title: 'Our only comfort in life and death'
+  icon: web_stories
+  sequence: 1
+  questions: [1, 2]
+  url: 'day-1'
+
+day-2:
+  type: 'Dialog'
+  width: max
+  header: 'Day 2'
+  segment: 'series-02'
+  title: 'Knowing our sins and misery'
+  icon: web_stories
+  sequence: 2
+  questions: [3, 4, 5]
+  url: 'day-2'
+
+day-3:
+  type: 'Dialog'
+  width: max
+  header: 'Day 3'
+  segment: 'series-02'
+  title: 'The origin of our depraved nature'
+  icon: web_stories
+  sequence: 3
+  questions: [6, 7, 8]
+  url: 'day-3'
+
+day-4:
+  type: 'Dialog'
+  width: max
+  header: 'Day 4'
+  segment: 'series-02'
+  title: "God's justice and punishment"
+  icon: web_stories
+  sequence: 4
+  questions: [9, 10, 11]
+  url: 'day-4'
+
+day-5:
+  type: 'Dialog'
+  width: max
+  header: 'Day 5'
+  segment: 'series-03'
+  title: 'How we can escape punishment'
+  icon: web_stories
+  sequence: 5
+  questions: [12, 13, 14, 15]
+  url: 'day-5'
+
+day-6:
+  type: 'Dialog'
+  width: max
+  header: 'Day 6'
+  segment: 'series-03'
+  title: 'The nature of our Mediator'
+  icon: web_stories
+  sequence: 6
+  questions: [16, 17, 18, 19]
+  url: 'day-6'
+
+day-7:
+  type: 'Dialog'
+  width: max
+  header: 'Day 7'
+  segment: 'series-03'
+  title: 'The nature of true faith'
+  icon: web_stories
+  sequence: 7
+  questions: [20, 21, 22, 23]
+  url: 'day-7'
+
+day-8:
+  type: 'Dialog'
+  width: max
+  header: 'Day 8'
+  segment: 'series-04'
+  title: 'God the Father and our creation'
+  icon: web_stories
+  sequence: 8
+  questions: [24, 25]
+  url: 'day-8'
+
+day-9:
+  type: 'Dialog'
+  width: max
+  header: 'Day 9'
+  segment: 'series-04'
+  title: 'Believing in God the Father'
+  icon: web_stories
+  sequence: 9
+  questions: [26]
+  url: 'day-9'
+
+day-10:
+  type: 'Dialog'
+  width: max
+  header: 'Day 10'
+  segment: 'series-04'
+  title: "Understanding God's providence"
+  icon: web_stories
+  sequence: 10
+  questions: [27, 28]
+  url: 'day-10'
+
+day-11:
+  type: 'Dialog'
+  width: max
+  header: 'Day 11'
+  segment: 'series-05'
+  title: 'The name Jesus, the Saviour'
+  icon: web_stories
+  sequence: 11
+  questions: [29, 30]
+  url: 'day-11'
+
+day-12:
+  type: 'Dialog'
+  width: max
+  header: 'Day 12'
+  segment: 'series-05'
+  title: 'The name Christ, the Anointed'
+  icon: web_stories
+  sequence: 12
+  questions: [31, 32]
+  url: 'day-12'
+
+day-13:
+  type: 'Dialog'
+  width: max
+  header: 'Day 13'
+  segment: 'series-05'
+  title: "God's only Son and our Lord"
+  icon: web_stories
+  sequence: 13
+  questions: [33, 34]
+  url: 'day-13'
+
+day-14:
+  type: 'Dialog'
+  width: max
+  header: 'Day 14'
+  segment: 'series-05'
+  title: "Christ's conception and birth"
+  icon: web_stories
+  sequence: 14
+  questions: [35, 36]
+  url: 'day-14'
+
+day-15:
+  type: 'Dialog'
+  width: max
+  header: 'Day 15'
+  segment: 'series-05'
+  title: "Christ's suffering and trial"
+  icon: web_stories
+  sequence: 15
+  questions: [37, 38, 39]
+  url: 'day-15'
+
+day-16:
+  type: 'Dialog'
+  width: max
+  header: 'Day 16'
+  segment: 'series-05'
+  title: "Christ's death and burial"
+  icon: web_stories
+  sequence: 16
+  questions: [40, 41, 42, 43, 44]
+  url: 'day-16'
+
+day-17:
+  type: 'Dialog'
+  width: max
+  header: 'Day 17'
+  segment: 'series-05'
+  title: "Benefits of Christ's resurrection"
+  icon: web_stories
+  sequence: 17
+  questions: [45]
+  url: 'day-17'
+
+day-18:
+  type: 'Dialog'
+  width: max
+  header: 'Day 18'
+  segment: 'series-05'
+  title: "Benefits of Christ's ascension"
+  icon: web_stories
+  sequence: 18
+  questions: [46, 47, 48, 49]
+  url: 'day-18'
+
+day-19:
+  type: 'Dialog'
+  width: max
+  header: 'Day 19'
+  segment: 'series-05'
+  title: 'Christ at the right hand of God'
+  icon: web_stories
+  sequence: 19
+  questions: [50, 51, 52]
+  url: 'day-19'
+
+day-20:
+  type: 'Dialog'
+  width: max
+  header: 'Day 20'
+  segment: 'series-06'
+  title: 'God the Holy Spirit'
+  icon: web_stories
+  sequence: 20
+  questions: [53]
+  url: 'day-20'
+
+day-21:
+  type: 'Dialog'
+  width: max
+  header: 'Day 21'
+  segment: 'series-06'
+  title: 'The church and communion of saints'
+  icon: web_stories
+  sequence: 21
+  questions: [54, 55, 56]
+  url: 'day-21'
+
+day-22:
+  type: 'Dialog'
+  width: max
+  header: 'Day 22'
+  segment: 'series-06'
+  title: 'Resurrection and life everlasting'
+  icon: web_stories
+  sequence: 22
+  questions: [57, 58]
+  url: 'day-22'
+
+day-23:
+  type: 'Dialog'
+  width: max
+  header: 'Day 23'
+  segment: 'series-07'
+  title: 'Our justification before God'
+  icon: web_stories
+  sequence: 23
+  questions: [59, 60, 61]
+  url: 'day-23'
+
+day-24:
+  type: 'Dialog'
+  width: max
+  header: 'Day 24'
+  segment: 'series-07'
+  title: 'Justification by faith alone'
+  icon: web_stories
+  sequence: 24
+  questions: [62, 63, 64]
+  url: 'day-24'
+
+day-25:
+  type: 'Dialog'
+  width: max
+  header: 'Day 25'
+  segment: 'series-08'
+  title: 'The sacraments and preaching'
+  icon: web_stories
+  sequence: 25
+  questions: [65, 66, 67, 68]
+  url: 'day-25'
+
+day-26:
+  type: 'Dialog'
+  width: max
+  header: 'Day 26'
+  segment: 'series-08'
+  title: 'The sacrament of Holy Baptism'
+  icon: web_stories
+  sequence: 26
+  questions: [69, 70, 71]
+  url: 'day-26'
+
+day-27:
+  type: 'Dialog'
+  width: max
+  header: 'Day 27'
+  segment: 'series-08'
+  title: 'The meaning and use of baptism'
+  icon: web_stories
+  sequence: 27
+  questions: [72, 73, 74]
+  url: 'day-27'
+
+day-28:
+  type: 'Dialog'
+  width: max
+  header: 'Day 28'
+  segment: 'series-08'
+  title: "The Lord's Supper instituted"
+  icon: web_stories
+  sequence: 28
+  questions: [75, 76, 77]
+  url: 'day-28'
+
+day-29:
+  type: 'Dialog'
+  width: max
+  header: 'Day 29'
+  segment: 'series-08'
+  title: "Meaning of the Lord's Supper"
+  icon: web_stories
+  sequence: 29
+  questions: [78, 79]
+  url: 'day-29'
+
+day-30:
+  type: 'Dialog'
+  width: max
+  header: 'Day 30'
+  segment: 'series-08'
+  title: "The Lord's Supper and the Mass"
+  icon: web_stories
+  sequence: 30
+  questions: [80, 81, 82]
+  url: 'day-30'
+
+day-31:
+  type: 'Dialog'
+  width: max
+  header: 'Day 31'
+  segment: 'series-08'
+  title: 'The keys of the kingdom'
+  icon: web_stories
+  sequence: 31
+  questions: [83, 84, 85]
+  url: 'day-31'
+
+day-32:
+  type: 'Dialog'
+  width: max
+  header: 'Day 32'
+  segment: 'series-09'
+  title: 'Why we must do good works'
+  icon: web_stories
+  sequence: 32
+  questions: [86, 87]
+  url: 'day-32'
+
+day-33:
+  type: 'Dialog'
+  width: max
+  header: 'Day 33'
+  segment: 'series-09'
+  title: 'True repentance and good works'
+  icon: web_stories
+  sequence: 33
+  questions: [88, 89, 90, 91]
+  url: 'day-33'
+
+day-34:
+  type: 'Dialog'
+  width: max
+  header: 'Day 34'
+  segment: 'series-10'
+  title: 'The Law and First Commandment'
+  icon: web_stories
+  sequence: 34
+  questions: [92, 93, 94, 95]
+  url: 'day-34'
+
+day-35:
+  type: 'Dialog'
+  width: max
+  header: 'Day 35'
+  segment: 'series-10'
+  title: 'The Second Commandment'
+  icon: web_stories
+  sequence: 35
+  questions: [96, 97, 98]
+  url: 'day-35'
+
+day-36:
+  type: 'Dialog'
+  width: max
+  header: 'Day 36'
+  segment: 'series-10'
+  title: 'The Third Commandment'
+  icon: web_stories
+  sequence: 36
+  questions: [99, 100]
+  url: 'day-36'
+
+day-37:
+  type: 'Dialog'
+  width: max
+  header: 'Day 37'
+  segment: 'series-10'
+  title: "Upholding God's holy name"
+  icon: web_stories
+  sequence: 37
+  questions: [101, 102]
+  url: 'day-37'
+
+day-38:
+  type: 'Dialog'
+  width: max
+  header: 'Day 38'
+  segment: 'series-10'
+  title: 'The Fourth Commandment'
+  icon: web_stories
+  sequence: 38
+  questions: [103]
+  url: 'day-38'
+
+day-39:
+  type: 'Dialog'
+  width: max
+  header: 'Day 39'
+  segment: 'series-10'
+  title: 'The Fifth Commandment'
+  icon: web_stories
+  sequence: 39
+  questions: [104]
+  url: 'day-39'
+
+day-40:
+  type: 'Dialog'
+  width: max
+  header: 'Day 40'
+  segment: 'series-10'
+  title: 'The Sixth Commandment'
+  icon: web_stories
+  sequence: 40
+  questions: [105, 106, 107]
+  url: 'day-40'
+
+day-41:
+  type: 'Dialog'
+  width: max
+  header: 'Day 41'
+  segment: 'series-10'
+  title: 'The Seventh Commandment'
+  icon: web_stories
+  sequence: 41
+  questions: [108, 109]
+  url: 'day-41'
+
+day-42:
+  type: 'Dialog'
+  width: max
+  header: 'Day 42'
+  segment: 'series-10'
+  title: 'The Eighth Commandment'
+  icon: web_stories
+  sequence: 42
+  questions: [110, 111]
+  url: 'day-42'
+
+day-43:
+  type: 'Dialog'
+  width: max
+  header: 'Day 43'
+  segment: 'series-10'
+  title: 'The Ninth Commandment'
+  icon: web_stories
+  sequence: 43
+  questions: [112]
+  url: 'day-43'
+
+day-44:
+  type: 'Dialog'
+  width: max
+  header: 'Day 44'
+  segment: 'series-10'
+  title: 'The Tenth Commandment'
+  icon: web_stories
+  sequence: 44
+  questions: [113, 114, 115]
+  url: 'day-44'
+
+day-45:
+  type: 'Dialog'
+  width: max
+  header: 'Day 45'
+  segment: 'series-11'
+  title: 'The necessity of prayer'
+  icon: web_stories
+  sequence: 45
+  questions: [116, 117, 118, 119]
+  url: 'day-45'
+
+day-46:
+  type: 'Dialog'
+  width: max
+  header: 'Day 46'
+  segment: 'series-11'
+  title: 'Our Father in heaven'
+  icon: web_stories
+  sequence: 46
+  questions: [120, 121]
+  url: 'day-46'
+
+day-47:
+  type: 'Dialog'
+  width: max
+  header: 'Day 47'
+  segment: 'series-11'
+  title: 'The first petition: Hallowed Name'
+  icon: web_stories
+  sequence: 47
+  questions: [122]
+  url: 'day-47'
+
+day-48:
+  type: 'Dialog'
+  width: max
+  header: 'Day 48'
+  segment: 'series-11'
+  title: 'The second petition: Thy Kingdom'
+  icon: web_stories
+  sequence: 48
+  questions: [123]
+  url: 'day-48'
+
+day-49:
+  type: 'Dialog'
+  width: max
+  header: 'Day 49'
+  segment: 'series-11'
+  title: 'The third petition: Thy Will'
+  icon: web_stories
+  sequence: 49
+  questions: [124]
+  url: 'day-49'
+
+day-50:
+  type: 'Dialog'
+  width: max
+  header: 'Day 50'
+  segment: 'series-11'
+  title: 'The fourth petition: Daily Bread'
+  icon: web_stories
+  sequence: 50
+  questions: [125]
+  url: 'day-50'
+
+day-51:
+  type: 'Dialog'
+  width: max
+  header: 'Day 51'
+  segment: 'series-11'
+  title: 'The fifth petition: Forgive Us'
+  icon: web_stories
+  sequence: 51
+  questions: [126]
+  url: 'day-51'
+
+day-52:
+  type: 'Dialog'
+  width: max
+  header: 'Day 52'
+  segment: 'series-11'
+  title: 'The sixth petition and Amen'
+  icon: web_stories
+  sequence: 52
+  questions: [127, 128, 129]
+  url: 'day-52'

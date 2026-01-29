@@ -1,0 +1,34 @@
+{%- assign slug = page.path | split: "." | first | split: "/" | last %}
+{%- assign day = site.data.sessions[slug] %}
+
+{%- for q in day.questions %}
+  {%- assign idx = q | prepend: 'q-' %}
+  {%- assign data = site.data.questions[idx] %}
+
+  <section>
+    {% include bubble.html text=data.question side='left' index=q slug=idx %}
+
+    {%- for line in data.answer -%}
+      {% include bubble.html text=line side='right' index=q slug=idx %}
+    {%- endfor -%}
+  </section>
+{%- endfor %}
+
+<hr class="section" />
+
+<article class="align-center max-width" style="align-self: anchor-center;">
+{%- for q in day.questions %}
+  {%- assign idx = q | prepend: 'q-' %}
+  {%- assign data = site.data.questions[idx] %}
+  <section data-question="{{ q }}">
+    {%- for r in data.refs -%}
+    <h6>Question {{ q }} &middot; Footnote {{ forloop.index }}</h6>
+      {%- for v in r -%}
+      <details data-ref="{{ v }}">
+        {%- include verse_text.html ref=v %}
+      </details>
+      {%- endfor -%}
+    {%- endfor -%}
+  </section>
+{%- endfor %}
+</article>

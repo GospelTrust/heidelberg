@@ -3,7 +3,7 @@
 {%- assign word = include.word %}
 {%- assign str = word | remove_first: '^' %}
 
-{%- if str == word %}
+{%- if str == word -%}
   {{ word }}
 {%- else -%}
   {%- assign w = str
@@ -12,14 +12,13 @@
      | remove_first: ';'
      | remove_first: '!'
      | remove_first: '?'
-   %}
-  {%- if w == str %}
+   -%}
+  {%- if w == str -%}
     {%- assign punct = '' -%}
-  {%- else %}
+  {%- else -%}
     {%- assign punct = str | slice: -1, 1 -%}
-  {% endif -%}
-
-  {%- assign ridx = w | minus: 1 %}
+  {%- endif -%}
+  {%- assign ridx = w | minus: 1 -%}
   <a href="#"
     data-word-click="wordClick"
     data-arg-index="{{ ridx }}"

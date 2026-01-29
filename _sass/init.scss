@@ -9,6 +9,7 @@
   }
   .index {
     white-space: nowrap;
+    background-color: transparent !important;
   }
 }
 
@@ -26,4 +27,38 @@ section {
   .body {
     overflow-y: auto !important;
   }
+}
+
+details {
+  summary {
+    cursor: pointer;
+    list-style: none;
+    &::-webkit-details-marker,
+    &::marker {
+      display: none;
+    }
+    &::before {
+      content: "\25B6\FE0E";
+      margin-right: 5px;
+      font-size: 0.9em;
+      color: var(--color-bullet);
+    }
+  }
+  &[open] {
+    summary {
+      &::before {
+        content: "\25BC\FE0E";
+      }
+    }
+  }
+}
+
+// Optional: nicer transition on the content
+details > *:not(summary) {
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; margin-top: -10px; }
+  to   { opacity: 1; margin-top: 0;    }
 }

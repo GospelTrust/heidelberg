@@ -196,3 +196,132 @@ group-10:
     - q-127
     - q-128
     - q-129
+
+series-01:
+  title: 'Comfort'
+  segment: ['Series', 1]
+  header: 'Our Only Comfort'
+  theme: c1
+  items:
+    - day-1
+
+series-02:
+  title: 'Misery'
+  segment: ['Series', 2]
+  header: "Man's Sin and Guilt"
+  theme: c3
+  items:
+    - day-2
+    - day-3
+    - day-4
+
+series-03:
+  title: 'Mediator'
+  segment: ['Series', 3]
+  header: 'The Way of Deliverance'
+  theme: c5
+  items:
+    - day-5
+    - day-6
+    - day-7
+
+series-04:
+  title: 'Creation'
+  segment: ['Series', 4]
+  header: 'God the Father'
+  theme: c7
+  items:
+    - day-8
+    - day-9
+    - day-10
+
+series-05:
+  title: 'Redemption'
+  segment: ['Series', 5]
+  header: 'God the Son'
+  theme: c9
+  items:
+    - day-11
+    - day-12
+    - day-13
+    - day-14
+    - day-15
+    - day-16
+    - day-17
+    - day-18
+    - day-19
+
+series-06:
+  title: 'Sanctification'
+  segment: ['Series', 6]
+  header: 'God the Holy Spirit'
+  theme: c2
+  items:
+    - day-20
+    - day-21
+    - day-22
+
+series-07:
+  title: 'Justification'
+  segment: ['Series', 7]
+  header: 'Righteousness by Faith'
+  theme: c4
+  items:
+    - day-23
+    - day-24
+
+series-08:
+  title: 'Sacraments'
+  segment: ['Series', 8]
+  header: 'Signs and Seals of Grace'
+  theme: c6
+  items:
+    - day-25
+    - day-26
+    - day-27
+    - day-28
+    - day-29
+    - day-30
+    - day-31
+
+series-09:
+  title: 'Repentance'
+  segment: ['Series', 9]
+  header: 'True Gratitude'
+  theme: c8
+  items:
+    - day-32
+    - day-33
+
+series-10:
+  title: 'Commandments'
+  segment: ['Series', 10]
+  header: 'The Moral Law'
+  theme: c10
+  items:
+    - day-34
+    - day-35
+    - day-36
+    - day-37
+    - day-38
+    - day-39
+    - day-40
+    - day-41
+    - day-42
+    - day-43
+    - day-44
+
+series-11:
+  title: 'Prayer'
+  segment: ['Series', 11]
+  header: "The Lord's Prayer"
+  theme: c12
+  items:
+    - day-45
+    - day-46
+    - day-47
+    - day-48
+    - day-49
+    - day-50
+    - day-51
+    - day-52

@@ -1,13 +1,14 @@
 session_tag: Day
 
 segments:
-  - group-01
-  - group-02
-  - group-03
-  - group-04
-  - group-05
-  - group-06
-  - group-07
-  - group-08
-  - group-09
-  - group-10
+  - series-01
+  - series-02
+  - series-03
+  - series-04
+  - series-05
+  - series-06
+  - series-07
+  - series-08
+  - series-09
+  - series-10
+  - series-11

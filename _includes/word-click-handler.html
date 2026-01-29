@@ -2,10 +2,10 @@
   function getText(r) {
     const data = [];
     for (const addr of r.split('; ')) {
-      const bq = document.querySelector(`details[data-ref="${addr}"] blockquote`);
+      const e = document.querySelector(`details[data-ref="${addr}"]`);
       data.push(`
-        <strong>${addr}</strong>
-        <blockquote>${bq.textContent}</blockquote>
+        <strong>${e.querySelector('summary').textContent}</strong>
+        <blockquote>${e.querySelector('blockquote').textContent}</blockquote>
       `);
     }
     return data.join("\n");

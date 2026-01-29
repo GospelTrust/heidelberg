@@ -7,7 +7,7 @@
 </center>
 
 <section>
-  {% include bubble.html text=data.question side='left' index=session.sequence %}
+  {% include bubble.html text=data.question side='left' index=session.sequence slug=slug %}
 
   {%- for line in data.answer -%}
     {% include bubble.html text=line side='right' slug=slug %}
@@ -21,7 +21,6 @@
   <h6>Footnote {{ forloop.index }}</h6>
     {%- for v in r -%}
     <details data-ref="{{ v }}">
-      <summary>{{ v }}</summary>
       {%- include verse_text.html ref=v %}
     </details>
     {%- endfor -%}

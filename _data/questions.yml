@@ -97,10 +97,11 @@ q-10:
     - "Certainly not."
     - "He is terribly displeased with our original sin as well as our actual sins."
     - "Therefore he will punish them by a just judgment both now and eternally, ^1 as he has declared: ^2"
-    - "Cursed is everyone who does not continue to do everything written in the Book of the Law (Gal 3:10)."
+    - "Cursed is everyone who does not continue to do everything written in the Book of the Law. ^3"
   refs:
     - ["Gen 2:17", "Ex 34:7", "Ps 5:4-6", "Ps 7:11", "Nahum 1:2", "Rom 1:18", "Rom 5:12", "Eph 5:6", "Heb 9:27"]
     - ["Deut 27:26"]
+    - ["Gal 3:10"]
 
 q-11:
   question: "But is God not also merciful?"
@@ -166,9 +167,10 @@ q-17:
 q-18:
   question: "But who is that Mediator who at the same time is true God and a true and righteous man?"
   answer:
-    - "Our Lord Jesus Christ, ^1 who has become for us wisdom from God – that is, our righteousness, holiness and redemption (1 Cor 1:30)."
+    - "Our Lord Jesus Christ, ^1 who has become for us wisdom from God – that is, our righteousness, holiness and redemption. ^2"
   refs:
     - ["Mt 1:21-23", "Lk 2:11", "1 Tim 2:5", "1 Tim 3:16"]
+    - ["1 Cor 1:30"]
 
 q-19:
   question: "From where do you know this?"
@@ -210,10 +212,18 @@ q-22:
 q-23:
   question: "What are these articles?"
   answer:
-    - "I. 1. I believe in God the Father almighty, Creator of heaven and earth."
-    - "II. 2. I believe in Jesus Christ, his only-begotten Son, our Lord; 3. he was conceived by the Holy Spirit, born of the virgin Mary; 4. suffered under Pontius Pilate, was crucified, dead, and buried; he descended into hell."
-    - "5. On the third day he arose from the dead; 6. he ascended into heaven, and sits at the right hand of God the Father almighty; 7. from there he will come to judge the living and the dead."
-    - "III. 8. I believe in the Holy Spirit; 9. I believe a holy catholic Christian church, the communion of saints; 10. the forgiveness of sins; 11. the resurrection of the body; 12. and the life everlasting."
+    - "Part I \\ 1. I believe in God the Father almighty, Creator of heaven and earth."
+    - "Part II \\ 2. I believe in Jesus Christ, his only-begotten Son, our Lord;"
+    - "3. he was conceived by the Holy Spirit, born of the virgin Mary;"
+    - "4. suffered under Pontius Pilate, was crucified, dead, and buried; he descended into hell."
+    - "5. On the third day he arose from the dead;"
+    - "6. he ascended into heaven, and sits at the right hand of God the Father almighty;"
+    - "7. from there he will come to judge the living and the dead."
+    - "Part III \\ 8. I believe in the Holy Spirit;"
+    - "9. I believe a holy catholic Christian church, the communion of saints;"
+    - "10. the forgiveness of sins;"
+    - "11. the resurrection of the body;"
+    - "12. and the life everlasting."
   refs: []
 
 q-24:
@@ -434,7 +444,7 @@ q-46:
     - ["Mt 24:30", "Acts 1:11"]
 
 q-47:
-  question: "Is Christ, then, not with us until the end of the world, as he has promised us?"
+  question: "Is Christ, then, not with us until the end of the world, as he has promised us? ^1"
   answer:
     - "Christ is true man and true God. With respect to his human nature he is no longer on earth, ^2 but with respect to his divinity, majesty, grace, and Spirit he is never absent from us. ^3"
   refs:
@@ -585,7 +595,7 @@ q-62:
     - ["Is 64:6"]
 
 q-63:
-  question: "But do our good works earn nothing, even though God promises to reward them in this life and the next?"
+  question: "But do our good works earn nothing, even though God promises to reward them in this life and the next? ^1"
   answer:
     - "This reward is not earned; it is a gift of grace. ^2"
   refs:
@@ -713,12 +723,14 @@ q-77:
     - "\"This is my body, which is for you; do this in remembrance of me.\""
     - "In the same way, after supper he took the cup, saying,"
     - "\"This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.\""
-    - "For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes (1 Cor 11:23-26)."
+    - "For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes). ^1"
     - "This promise is repeated by Paul where he says:"
     - "Is not the cup of thanksgiving for which we give thanks a participation in the blood of Christ?"
     - "And is not the bread that we break a participation in the body of Christ?"
-    - "Because there is one loaf, we, who are many, are one body, for we all partake of the one loaf (1 Cor 10:16-17)."
-  refs: []
+    - "Because there is one loaf, we, who are many, are one body, for we all partake of the one loaf. ^2"
+  refs:
+    - ["1 Cor 11:23-26"]
+    - ["1 Cor 10:16-17"]
 
 q-78:
   question: "Are then the bread and wine changed into the real body and blood of Christ?"
@@ -853,8 +865,7 @@ q-92:
     - "God spoke all these words:"
     - "I am the LORD your God, who brought you out of Egypt, out of the land of slavery."
     - "1. You shall have no other gods before me."
-    - "2. You shall not make for yourself an idol in the form of anything in heaven above or on the earth beneath or in the waters below."
-    - "You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generation of those who hate me, but showing love to a thousand generations of those who love me and keep my commandments."
+    - "2. You shall not make for yourself an idol in the form of anything in heaven above or on the earth beneath or in the waters below. You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, punishing the children for the sin of the fathers to the third and fourth generation of those who hate me, but showing love to a thousand generations of those who love me and keep my commandments."
     - "3. You shall not misuse the name of the LORD your God, for the LORD will not hold anyone guiltless who misuses his name."
     - "4. Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a Sabbath to the LORD your God. On it you shall not do any work, neither you, nor your son or daughter, nor your manservant or maidservant, nor your animals, nor the alien within your gates. For in six days the LORD made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the LORD blessed the Sabbath day and made it holy."
     - "5. Honor your father and your mother, so that you may live long in the land the LORD your God is giving you."
@@ -982,7 +993,7 @@ q-104:
   answer:
     - "That I show all honour, love, and faithfulness to my father and mother and to all those in authority over me, submit myself with due obedience to their good instruction and discipline, ^1 and also have patience with their weaknesses and shortcomings, ^2 since it is God's will to govern us by their hand. ^3"
   refs:
-    - ["Ex 21:17", "Prov 1:8", "Prov 4:1", "Rom 13:1-2", "Eph 5:21-22", "Eph 6:1-9", "Col 3:18-4:1"]
+    - ["Ex 21:17", "Prov 1:8", "Prov 4:1", "Rom 13:1-2", "Eph 5:21-22", "Eph 6:1-9", "Col 3:18-25"]
     - ["Prov 20:20", "Prov 23:22", "1 Pet 2:18"]
     - ["Mt 22:21", "Rom 13:1-8", "Eph 6:1-9", "Col 3:18-21"]
 
@@ -1047,10 +1058,9 @@ q-110:
 q-111:
   question: "But what does God require of you in this commandment?"
   answer:
-    - "I must promote my neighbour's good wherever I can and may, deal with him as I would like others to deal with me, ^1 and work faithfully so that I may share with those in need. ^2"
+    - "I must promote my neighbour's good wherever I can and may, deal with him as I would like others to deal with me, and work faithfully so that I may share with those in need. ^1"
   refs:
-    - ["Mt 7:12", "Lk 6:31", "Eph 4:28"]
-    - ["Ia 58:10", "Gal 6:10", "Eph 4:28", "1 Tim 6:17-18", "Heb 13:16"]
+    - ["Is 58:10", "Gal 6:10", "Eph 4:28", "1 Tim 6:17-18", "Heb 13:16"]
 
 q-112:
   question: "What is required in the ninth commandment?"
@@ -1122,8 +1132,9 @@ q-118:
 q-119:
   question: "What is the prayer?"
   answer:
-    - "Our Father in heaven, hallowed be your name, your kingdom come, your will be done on earth as it is in heaven. Give us today our daily bread. Forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. For yours is the kingdom and the power and the glory forever. Amen."
-  refs: []
+    - "Our Father in heaven, hallowed be your name, your kingdom come, your will be done on earth as it is in heaven. Give us today our daily bread. Forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. For yours is the kingdom and the power and the glory forever. Amen. ^1"
+  refs:
+    - ["Mt 6:9-13", "Lk 11:2-4"]
 
 q-120:
   question: "Why has Christ commanded us to address God thus: 'Our Father'?"
@@ -1212,4 +1223,3 @@ q-129:
   refs:
     - ["2 Cor 1:20", "2 Tim 2:13"]
     - ["Is 65:24", "Jer 32:27", "Mt 7:7-8", "Lk 11:9-10"]
-
