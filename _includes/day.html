@@ -16,13 +16,17 @@
 
 <hr class="section" />
 
-<article class="align-center max-width" style="align-self: anchor-center;">
+<center>
+  <a href="javascript:show();">Footnotes</a>
+</center>
+
+<article class="align-center max-width footnotes hidden" style="align-self: anchor-center;">
 {%- for q in day.questions %}
   {%- assign idx = q | prepend: 'q-' %}
   {%- assign data = site.data.questions[idx] %}
   <section data-question="{{ q }}">
     {%- for r in data.refs -%}
-    <h6>Question {{ q }} &middot; Footnote {{ forloop.index }}</h6>
+      <h6>Question {{ q }} &middot; Footnote {{ forloop.index }}</h6>
       {%- for v in r -%}
       <details data-ref="{{ v }}">
         {%- include verse_text.html ref=v %}
@@ -32,3 +36,13 @@
   </section>
 {%- endfor %}
 </article>
+
+<script>
+  function show(e) {
+    const c = document.querySelector(`center`);
+    c.remove();
+
+    const a = document.querySelector(`article.footnotes`);
+    a.classList.remove('hidden');
+  }
+</script>
