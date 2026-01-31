@@ -17,6 +17,8 @@ group-01:
     - q-11
     - q-12
     - q-13
+    - q-14
+    - q-15
 
 group-02:
   title: '14–26'
@@ -24,8 +26,6 @@ group-02:
   header: 'The God-man mediator and true faith'
   theme: c3
   items:
-    - q-14
-    - q-15
     - q-16
     - q-17
     - q-18
@@ -96,7 +96,6 @@ group-05:
     - q-62
     - q-63
     - q-64
-    - q-65
 
 group-06:
   title: '66–78'
@@ -104,6 +103,7 @@ group-06:
   header: 'The sacraments: baptism and the Lord’s Supper'
   theme: c2
   items:
+    - q-65
     - q-66
     - q-67
     - q-68
@@ -116,7 +116,6 @@ group-06:
     - q-75
     - q-76
     - q-77
-    - q-78
 
 group-07:
   title: '79–91'
@@ -124,6 +123,7 @@ group-07:
   header: 'Lord’s Supper, discipline, and the beginning of gratitude'
   theme: c4
   items:
+    - q-78
     - q-79
     - q-80
     - q-81
@@ -177,6 +177,8 @@ group-09:
     - q-115
     - q-116
     - q-117
+    - q-118
+    - q-119
 
 group-10:
   title: '118–129'
@@ -184,8 +186,6 @@ group-10:
   header: 'The Lord’s Prayer: dependent life before God'
   theme: c10
   items:
-    - q-118
-    - q-119
     - q-120
     - q-121
     - q-122
@@ -201,6 +201,7 @@ series-01:
   title: 'Comfort'
   segment: ['Series', 1]
   header: 'Our Only Comfort'
+  rocket-icon: none
   theme: c1
   items:
     - day-1
@@ -209,6 +210,7 @@ series-02:
   title: 'Misery'
   segment: ['Series', 2]
   header: "Man's Sin and Guilt"
+  rocket-icon: none
   theme: c3
   items:
     - day-2
@@ -219,6 +221,7 @@ series-03:
   title: 'Mediator'
   segment: ['Series', 3]
   header: 'The Way of Deliverance'
+  rocket-icon: none
   theme: c5
   items:
     - day-5
@@ -229,6 +232,7 @@ series-04:
   title: 'Creation'
   segment: ['Series', 4]
   header: 'God the Father'
+  rocket-icon: none
   theme: c7
   items:
     - day-8
@@ -239,6 +243,7 @@ series-05:
   title: 'Redemption'
   segment: ['Series', 5]
   header: 'God the Son'
+  rocket-icon: none
   theme: c9
   items:
     - day-11
@@ -255,6 +260,7 @@ series-06:
   title: 'Sanctification'
   segment: ['Series', 6]
   header: 'God the Holy Spirit'
+  rocket-icon: none
   theme: c2
   items:
     - day-20
@@ -265,6 +271,7 @@ series-07:
   title: 'Justification'
   segment: ['Series', 7]
   header: 'Righteousness by Faith'
+  rocket-icon: none
   theme: c4
   items:
     - day-23
@@ -274,6 +281,7 @@ series-08:
   title: 'Sacraments'
   segment: ['Series', 8]
   header: 'Signs and Seals of Grace'
+  rocket-icon: none
   theme: c6
   items:
     - day-25
@@ -288,6 +296,7 @@ series-09:
   title: 'Repentance'
   segment: ['Series', 9]
   header: 'True Gratitude'
+  rocket-icon: none
   theme: c8
   items:
     - day-32
@@ -297,6 +306,7 @@ series-10:
   title: 'Commandments'
   segment: ['Series', 10]
   header: 'The Moral Law'
+  rocket-icon: none
   theme: c10
   items:
     - day-34
@@ -315,6 +325,7 @@ series-11:
   title: 'Prayer'
   segment: ['Series', 11]
   header: "The Lord's Prayer"
+  rocket-icon: none
   theme: c12
   items:
     - day-45

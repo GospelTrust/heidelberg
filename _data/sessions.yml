@@ -5,7 +5,7 @@ title:
   url: 'title'
 
 q-1:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 1'
   segment: 'group-01'
@@ -13,10 +13,11 @@ q-1:
   icon: web_stories
   sequence: 1
   day: 1
+  part: Day 1
   url: 'q-1'
 
 q-2:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 2'
   segment: 'group-01'
@@ -24,10 +25,11 @@ q-2:
   icon: web_stories
   sequence: 2
   day: 1
+  part: Day 1
   url: 'q-2'
 
 q-3:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 3'
   segment: 'group-01'
@@ -35,10 +37,11 @@ q-3:
   icon: web_stories
   sequence: 3
   day: 2
+  part: Day 2
   url: 'q-3'
 
 q-4:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 4'
   segment: 'group-01'
@@ -46,10 +49,11 @@ q-4:
   icon: web_stories
   sequence: 4
   day: 2
+  part: Day 2
   url: 'q-4'
 
 q-5:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 5'
   segment: 'group-01'
@@ -57,10 +61,11 @@ q-5:
   icon: web_stories
   sequence: 5
   day: 2
+  part: Day 2
   url: 'q-5'
 
 q-6:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 6'
   segment: 'group-01'
@@ -68,10 +73,11 @@ q-6:
   icon: web_stories
   sequence: 6
   day: 3
+  part: Day 3
   url: 'q-6'
 
 q-7:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 7'
   segment: 'group-01'
@@ -79,10 +85,11 @@ q-7:
   icon: web_stories
   sequence: 7
   day: 3
+  part: Day 3
   url: 'q-7'
 
 q-8:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 8'
   segment: 'group-01'
@@ -90,10 +97,11 @@ q-8:
   icon: web_stories
   sequence: 8
   day: 3
+  part: Day 3
   url: 'q-8'
 
 q-9:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 9'
   segment: 'group-01'
@@ -101,10 +109,11 @@ q-9:
   icon: web_stories
   sequence: 9
   day: 4
+  part: Day 4
   url: 'q-9'
 
 q-10:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 10'
   segment: 'group-01'
@@ -112,10 +121,11 @@ q-10:
   icon: web_stories
   sequence: 10
   day: 4
+  part: Day 4
   url: 'q-10'
 
 q-11:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 11'
   segment: 'group-01'
@@ -123,10 +133,11 @@ q-11:
   icon: web_stories
   sequence: 11
   day: 4
+  part: Day 4
   url: 'q-11'
 
 q-12:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 12'
   segment: 'group-01'
@@ -134,10 +145,11 @@ q-12:
   icon: web_stories
   sequence: 12
   day: 5
+  part: Day 5
   url: 'q-12'
 
 q-13:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 13'
   segment: 'group-01'
@@ -145,76 +157,83 @@ q-13:
   icon: web_stories
   sequence: 13
   day: 5
+  part: Day 5
   url: 'q-13'
 
 q-14:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 14'
   segment: 'group-02'
   title: 'No mere creature can redeem us'
   icon: web_stories
   sequence: 14
-  day: 6
+  day: 5
+  part: Day 5
   url: 'q-14'
 
 q-15:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 15'
   segment: 'group-02'
   title: 'We need a true God-man mediator'
   icon: web_stories
   sequence: 15
-  day: 6
+  day: 5
+  part: Day 5
   url: 'q-15'
 
 q-16:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 16'
   segment: 'group-02'
   title: 'The mediator must be truly human'
   icon: web_stories
   sequence: 16
-  day: 7
+  day: 6
+  part: Day 6
   url: 'q-16'
 
 q-17:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 17'
   segment: 'group-02'
   title: 'The mediator must also be truly God'
   icon: web_stories
   sequence: 17
-  day: 7
+  day: 6
+  part: Day 6
   url: 'q-17'
 
 q-18:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 18'
   segment: 'group-02'
   title: 'Jesus Christ is our mediator'
   icon: web_stories
   sequence: 18
-  day: 7
+  day: 6
+  part: Day 6
   url: 'q-18'
 
 q-19:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 19'
   segment: 'group-02'
   title: 'Scripture reveals this mediator'
   icon: web_stories
   sequence: 19
-  day: 7
+  day: 6
+  part: Day 6
   url: 'q-19'
 
 q-20:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 20'
   segment: 'group-02'
@@ -222,10 +241,11 @@ q-20:
   icon: web_stories
   sequence: 20
   day: 7
+  part: Day 7
   url: 'q-20'
 
 q-21:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 21'
   segment: 'group-02'
@@ -233,10 +253,11 @@ q-21:
   icon: web_stories
   sequence: 21
   day: 7
+  part: Day 7
   url: 'q-21'
 
 q-22:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 22'
   segment: 'group-02'
@@ -244,10 +265,11 @@ q-22:
   icon: web_stories
   sequence: 22
   day: 7
+  part: Day 7
   url: 'q-22'
 
 q-23:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 23'
   segment: 'group-02'
@@ -255,10 +277,11 @@ q-23:
   icon: web_stories
   sequence: 23
   day: 7
+  part: Day 7
   url: 'q-23'
 
 q-24:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 24'
   segment: 'group-02'
@@ -266,10 +289,11 @@ q-24:
   icon: web_stories
   sequence: 24
   day: 8
+  part: Day 8
   url: 'q-24'
 
 q-25:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 25'
   segment: 'group-02'
@@ -277,10 +301,11 @@ q-25:
   icon: web_stories
   sequence: 25
   day: 8
+  part: Day 8
   url: 'q-25'
 
 q-26:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 26'
   segment: 'group-02'
@@ -288,10 +313,11 @@ q-26:
   icon: web_stories
   sequence: 26
   day: 9
+  part: Day 9
   url: 'q-26'
 
 q-27:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 27'
   segment: 'group-03'
@@ -299,10 +325,11 @@ q-27:
   icon: web_stories
   sequence: 27
   day: 10
+  part: Day 10
   url: 'q-27'
 
 q-28:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 28'
   segment: 'group-03'
@@ -310,10 +337,11 @@ q-28:
   icon: web_stories
   sequence: 28
   day: 10
+  part: Day 10
   url: 'q-28'
 
 q-29:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 29'
   segment: 'group-03'
@@ -321,10 +349,11 @@ q-29:
   icon: web_stories
   sequence: 29
   day: 11
+  part: Day 11
   url: 'q-29'
 
 q-30:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 30'
   segment: 'group-03'
@@ -332,10 +361,11 @@ q-30:
   icon: web_stories
   sequence: 30
   day: 11
+  part: Day 11
   url: 'q-30'
 
 q-31:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 31'
   segment: 'group-03'
@@ -343,10 +373,11 @@ q-31:
   icon: web_stories
   sequence: 31
   day: 12
+  part: Day 12
   url: 'q-31'
 
 q-32:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 32'
   segment: 'group-03'
@@ -354,10 +385,11 @@ q-32:
   icon: web_stories
   sequence: 32
   day: 12
+  part: Day 12
   url: 'q-32'
 
 q-33:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 33'
   segment: 'group-03'
@@ -365,10 +397,11 @@ q-33:
   icon: web_stories
   sequence: 33
   day: 13
+  part: Day 13
   url: 'q-33'
 
 q-34:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 34'
   segment: 'group-03'
@@ -376,10 +409,11 @@ q-34:
   icon: web_stories
   sequence: 34
   day: 13
+  part: Day 13
   url: 'q-34'
 
 q-35:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 35'
   segment: 'group-03'
@@ -387,10 +421,11 @@ q-35:
   icon: web_stories
   sequence: 35
   day: 14
+  part: Day 14
   url: 'q-35'
 
 q-36:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 36'
   segment: 'group-03'
@@ -398,10 +433,11 @@ q-36:
   icon: web_stories
   sequence: 36
   day: 14
+  part: Day 14
   url: 'q-36'
 
 q-37:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 37'
   segment: 'group-03'
@@ -409,10 +445,11 @@ q-37:
   icon: web_stories
   sequence: 37
   day: 15
+  part: Day 15
   url: 'q-37'
 
 q-38:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 38'
   segment: 'group-03'
@@ -420,10 +457,11 @@ q-38:
   icon: web_stories
   sequence: 38
   day: 15
+  part: Day 15
   url: 'q-38'
 
 q-39:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 39'
   segment: 'group-03'
@@ -431,10 +469,11 @@ q-39:
   icon: web_stories
   sequence: 39
   day: 15
+  part: Day 15
   url: 'q-39'
 
 q-40:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 40'
   segment: 'group-04'
@@ -442,10 +481,11 @@ q-40:
   icon: web_stories
   sequence: 40
   day: 16
+  part: Day 16
   url: 'q-40'
 
 q-41:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 41'
   segment: 'group-04'
@@ -453,10 +493,11 @@ q-41:
   icon: web_stories
   sequence: 41
   day: 16
+  part: Day 16
   url: 'q-41'
 
 q-42:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 42'
   segment: 'group-04'
@@ -464,10 +505,11 @@ q-42:
   icon: web_stories
   sequence: 42
   day: 16
+  part: Day 16
   url: 'q-42'
 
 q-43:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 43'
   segment: 'group-04'
@@ -475,10 +517,11 @@ q-43:
   icon: web_stories
   sequence: 43
   day: 16
+  part: Day 16
   url: 'q-43'
 
 q-44:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 44'
   segment: 'group-04'
@@ -486,10 +529,11 @@ q-44:
   icon: web_stories
   sequence: 44
   day: 16
+  part: Day 16
   url: 'q-44'
 
 q-45:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 45'
   segment: 'group-04'
@@ -497,10 +541,11 @@ q-45:
   icon: web_stories
   sequence: 45
   day: 17
+  part: Day 17
   url: 'q-45'
 
 q-46:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 46'
   segment: 'group-04'
@@ -508,10 +553,11 @@ q-46:
   icon: web_stories
   sequence: 46
   day: 18
+  part: Day 18
   url: 'q-46'
 
 q-47:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 47'
   segment: 'group-04'
@@ -519,10 +565,11 @@ q-47:
   icon: web_stories
   sequence: 47
   day: 18
+  part: Day 18
   url: 'q-47'
 
 q-48:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 48'
   segment: 'group-04'
@@ -530,21 +577,23 @@ q-48:
   icon: web_stories
   sequence: 48
   day: 18
+  part: Day 18
   url: 'q-48'
 
 q-49:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 49'
   segment: 'group-04'
   title: 'Ascension secures our heavenly hope'
   icon: web_stories
   sequence: 49
-  day: 19
+  day: 18
+  part: Day 18
   url: 'q-49'
 
 q-50:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 50'
   segment: 'group-04'
@@ -552,10 +601,11 @@ q-50:
   icon: web_stories
   sequence: 50
   day: 19
+  part: Day 19
   url: 'q-50'
 
 q-51:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 51'
   segment: 'group-04'
@@ -563,10 +613,11 @@ q-51:
   icon: web_stories
   sequence: 51
   day: 19
+  part: Day 19
   url: 'q-51'
 
 q-52:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 52'
   segment: 'group-04'
@@ -574,10 +625,11 @@ q-52:
   icon: web_stories
   sequence: 52
   day: 19
+  part: Day 19
   url: 'q-52'
 
 q-53:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 53'
   segment: 'group-05'
@@ -585,10 +637,11 @@ q-53:
   icon: web_stories
   sequence: 53
   day: 20
+  part: Day 20
   url: 'q-53'
 
 q-54:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 54'
   segment: 'group-05'
@@ -596,10 +649,11 @@ q-54:
   icon: web_stories
   sequence: 54
   day: 21
+  part: Day 21
   url: 'q-54'
 
 q-55:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 55'
   segment: 'group-05'
@@ -607,21 +661,23 @@ q-55:
   icon: web_stories
   sequence: 55
   day: 21
+  part: Day 21
   url: 'q-55'
 
 q-56:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 56'
   segment: 'group-05'
   title: 'Forgiveness covers all our sins'
   icon: web_stories
   sequence: 56
-  day: 22
+  day: 21
+  part: Day 21
   url: 'q-56'
 
 q-57:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 57'
   segment: 'group-05'
@@ -629,10 +685,11 @@ q-57:
   icon: web_stories
   sequence: 57
   day: 22
+  part: Day 22
   url: 'q-57'
 
 q-58:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 58'
   segment: 'group-05'
@@ -640,10 +697,11 @@ q-58:
   icon: web_stories
   sequence: 58
   day: 22
+  part: Day 22
   url: 'q-58'
 
 q-59:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 59'
   segment: 'group-05'
@@ -651,10 +709,11 @@ q-59:
   icon: web_stories
   sequence: 59
   day: 23
+  part: Day 23
   url: 'q-59'
 
 q-60:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 60'
   segment: 'group-05'
@@ -662,10 +721,11 @@ q-60:
   icon: web_stories
   sequence: 60
   day: 23
+  part: Day 23
   url: 'q-60'
 
 q-61:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 61'
   segment: 'group-05'
@@ -673,10 +733,11 @@ q-61:
   icon: web_stories
   sequence: 61
   day: 23
+  part: Day 23
   url: 'q-61'
 
 q-62:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 62'
   segment: 'group-05'
@@ -684,10 +745,11 @@ q-62:
   icon: web_stories
   sequence: 62
   day: 24
+  part: Day 24
   url: 'q-62'
 
 q-63:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 63'
   segment: 'group-05'
@@ -695,10 +757,11 @@ q-63:
   icon: web_stories
   sequence: 63
   day: 24
+  part: Day 24
   url: 'q-63'
 
 q-64:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 64'
   segment: 'group-05'
@@ -706,10 +769,11 @@ q-64:
   icon: web_stories
   sequence: 64
   day: 24
+  part: Day 24
   url: 'q-64'
 
 q-65:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 65'
   segment: 'group-05'
@@ -717,10 +781,11 @@ q-65:
   icon: web_stories
   sequence: 65
   day: 25
+  part: Day 25
   url: 'q-65'
 
 q-66:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 66'
   segment: 'group-06'
@@ -728,10 +793,11 @@ q-66:
   icon: web_stories
   sequence: 66
   day: 25
+  part: Day 25
   url: 'q-66'
 
 q-67:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 67'
   segment: 'group-06'
@@ -739,10 +805,11 @@ q-67:
   icon: web_stories
   sequence: 67
   day: 25
+  part: Day 25
   url: 'q-67'
 
 q-68:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 68'
   segment: 'group-06'
@@ -750,10 +817,11 @@ q-68:
   icon: web_stories
   sequence: 68
   day: 25
+  part: Day 25
   url: 'q-68'
 
 q-69:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 69'
   segment: 'group-06'
@@ -761,10 +829,11 @@ q-69:
   icon: web_stories
   sequence: 69
   day: 26
+  part: Day 26
   url: 'q-69'
 
 q-70:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 70'
   segment: 'group-06'
@@ -772,10 +841,11 @@ q-70:
   icon: web_stories
   sequence: 70
   day: 26
+  part: Day 26
   url: 'q-70'
 
 q-71:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 71'
   segment: 'group-06'
@@ -783,32 +853,35 @@ q-71:
   icon: web_stories
   sequence: 71
   day: 26
+  part: Day 26
   url: 'q-71'
 
 q-72:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 72'
   segment: 'group-06'
   title: 'Water is sign, not the cleansing itself'
   icon: web_stories
   sequence: 72
-  day: 26
+  day: 27
+  part: Day 27
   url: 'q-72'
 
 q-73:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 73'
   segment: 'group-06'
   title: 'Baptism called washing of regeneration'
   icon: web_stories
   sequence: 73
-  day: 26
+  day: 27
+  part: Day 27
   url: 'q-73'
 
 q-74:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 74'
   segment: 'group-06'
@@ -816,10 +889,11 @@ q-74:
   icon: web_stories
   sequence: 74
   day: 27
+  part: Day 27
   url: 'q-74'
 
 q-75:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 75'
   segment: 'group-06'
@@ -827,32 +901,35 @@ q-75:
   icon: web_stories
   sequence: 75
   day: 28
+  part: Day 28
   url: 'q-75'
 
 q-76:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 76'
   segment: 'group-06'
   title: 'Eating Christ’s body by faith'
   icon: web_stories
   sequence: 76
-  day: 29
+  day: 28
+  part: Day 28
   url: 'q-76'
 
 q-77:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 77'
   segment: 'group-06'
   title: 'Christ nourishes us in the Supper'
   icon: web_stories
   sequence: 77
-  day: 29
+  day: 28
+  part: Day 28
   url: 'q-77'
 
 q-78:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 78'
   segment: 'group-06'
@@ -860,10 +937,11 @@ q-78:
   icon: web_stories
   sequence: 78
   day: 29
+  part: Day 29
   url: 'q-78'
 
 q-79:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 79'
   segment: 'group-07'
@@ -871,10 +949,11 @@ q-79:
   icon: web_stories
   sequence: 79
   day: 29
+  part: Day 29
   url: 'q-79'
 
 q-80:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 80'
   segment: 'group-07'
@@ -882,10 +961,11 @@ q-80:
   icon: web_stories
   sequence: 80
   day: 30
+  part: Day 30
   url: 'q-80'
 
 q-81:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 81'
   segment: 'group-07'
@@ -893,10 +973,11 @@ q-81:
   icon: web_stories
   sequence: 81
   day: 30
+  part: Day 30
   url: 'q-81'
 
 q-82:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 82'
   segment: 'group-07'
@@ -904,10 +985,11 @@ q-82:
   icon: web_stories
   sequence: 82
   day: 30
+  part: Day 30
   url: 'q-82'
 
 q-83:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 83'
   segment: 'group-07'
@@ -915,10 +997,11 @@ q-83:
   icon: web_stories
   sequence: 83
   day: 31
+  part: Day 31
   url: 'q-83'
 
 q-84:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 84'
   segment: 'group-07'
@@ -926,10 +1009,11 @@ q-84:
   icon: web_stories
   sequence: 84
   day: 31
+  part: Day 31
   url: 'q-84'
 
 q-85:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 85'
   segment: 'group-07'
@@ -937,10 +1021,11 @@ q-85:
   icon: web_stories
   sequence: 85
   day: 31
+  part: Day 31
   url: 'q-85'
 
 q-86:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 86'
   segment: 'group-07'
@@ -948,10 +1033,11 @@ q-86:
   icon: web_stories
   sequence: 86
   day: 32
+  part: Day 32
   url: 'q-86'
 
 q-87:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 87'
   segment: 'group-07'
@@ -959,10 +1045,11 @@ q-87:
   icon: web_stories
   sequence: 87
   day: 32
+  part: Day 32
   url: 'q-87'
 
 q-88:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 88'
   segment: 'group-07'
@@ -970,10 +1057,11 @@ q-88:
   icon: web_stories
   sequence: 88
   day: 33
+  part: Day 33
   url: 'q-88'
 
 q-89:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 89'
   segment: 'group-07'
@@ -981,10 +1069,11 @@ q-89:
   icon: web_stories
   sequence: 89
   day: 33
+  part: Day 33
   url: 'q-89'
 
 q-90:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 90'
   segment: 'group-07'
@@ -992,10 +1081,11 @@ q-90:
   icon: web_stories
   sequence: 90
   day: 33
+  part: Day 33
   url: 'q-90'
 
 q-91:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 91'
   segment: 'group-07'
@@ -1003,10 +1093,11 @@ q-91:
   icon: web_stories
   sequence: 91
   day: 33
+  part: Day 33
   url: 'q-91'
 
 q-92:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 92'
   segment: 'group-08'
@@ -1014,10 +1105,11 @@ q-92:
   icon: web_stories
   sequence: 92
   day: 34
+  part: Day 34
   url: 'q-92'
 
 q-93:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 93'
   segment: 'group-08'
@@ -1025,87 +1117,95 @@ q-93:
   icon: web_stories
   sequence: 93
   day: 34
+  part: Day 34
   url: 'q-93'
 
 q-94:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 94'
   segment: 'group-08'
   title: 'Worship God alone with all we are'
   icon: web_stories
   sequence: 94
-  day: 36
+  day: 34
+  part: Day 34
   url: 'q-94'
 
 q-95:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 95'
   segment: 'group-08'
   title: 'Idolatry trusts anything besides God'
   icon: web_stories
   sequence: 95
-  day: 36
+  day: 34
+  part: Day 34
   url: 'q-95'
 
 q-96:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 96'
   segment: 'group-08'
   title: 'No images in worship of God'
   icon: web_stories
   sequence: 96
-  day: 37
+  day: 35
+  part: Day 35
   url: 'q-96'
 
 q-97:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 97'
   segment: 'group-08'
   title: 'God forbids all images of himself'
   icon: web_stories
   sequence: 97
-  day: 37
+  day: 35
+  part: Day 35
   url: 'q-97'
 
 q-98:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 98'
   segment: 'group-08'
   title: 'Images not helpful for teaching faith'
   icon: web_stories
   sequence: 98
-  day: 37
+  day: 35
+  part: Day 35
   url: 'q-98'
 
 q-99:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 99'
   segment: 'group-08'
   title: 'Use God’s name reverently'
   icon: web_stories
   sequence: 99
-  day: 37
+  day: 36
+  part: Day 36
   url: 'q-99'
 
 q-100:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 100'
   segment: 'group-08'
   title: 'Profaning God’s name provokes wrath'
   icon: web_stories
   sequence: 100
-  day: 37
+  day: 36
+  part: Day 36
   url: 'q-100'
 
 q-101:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 101'
   segment: 'group-08'
@@ -1113,10 +1213,11 @@ q-101:
   icon: web_stories
   sequence: 101
   day: 37
+  part: Day 37
   url: 'q-101'
 
 q-102:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 102'
   segment: 'group-08'
@@ -1124,10 +1225,11 @@ q-102:
   icon: web_stories
   sequence: 102
   day: 37
+  part: Day 37
   url: 'q-102'
 
 q-103:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 103'
   segment: 'group-08'
@@ -1135,10 +1237,11 @@ q-103:
   icon: web_stories
   sequence: 103
   day: 38
+  part: Day 38
   url: 'q-103'
 
 q-104:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 104'
   segment: 'group-08'
@@ -1146,10 +1249,11 @@ q-104:
   icon: web_stories
   sequence: 104
   day: 39
+  part: Day 39
   url: 'q-104'
 
 q-105:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 105'
   segment: 'group-09'
@@ -1157,10 +1261,11 @@ q-105:
   icon: web_stories
   sequence: 105
   day: 40
+  part: Day 40
   url: 'q-105'
 
 q-106:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 106'
   segment: 'group-09'
@@ -1168,10 +1273,11 @@ q-106:
   icon: web_stories
   sequence: 106
   day: 40
+  part: Day 40
   url: 'q-106'
 
 q-107:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 107'
   segment: 'group-09'
@@ -1179,10 +1285,11 @@ q-107:
   icon: web_stories
   sequence: 107
   day: 40
+  part: Day 40
   url: 'q-107'
 
 q-108:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 108'
   segment: 'group-09'
@@ -1190,10 +1297,11 @@ q-108:
   icon: web_stories
   sequence: 108
   day: 41
+  part: Day 41
   url: 'q-108'
 
 q-109:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 109'
   segment: 'group-09'
@@ -1201,10 +1309,11 @@ q-109:
   icon: web_stories
   sequence: 109
   day: 41
+  part: Day 41
   url: 'q-109'
 
 q-110:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 110'
   segment: 'group-09'
@@ -1212,10 +1321,11 @@ q-110:
   icon: web_stories
   sequence: 110
   day: 42
+  part: Day 42
   url: 'q-110'
 
 q-111:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 111'
   segment: 'group-09'
@@ -1223,10 +1333,11 @@ q-111:
   icon: web_stories
   sequence: 111
   day: 42
+  part: Day 42
   url: 'q-111'
 
 q-112:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 112'
   segment: 'group-09'
@@ -1234,10 +1345,11 @@ q-112:
   icon: web_stories
   sequence: 112
   day: 43
+  part: Day 43
   url: 'q-112'
 
 q-113:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 113'
   segment: 'group-09'
@@ -1245,10 +1357,11 @@ q-113:
   icon: web_stories
   sequence: 113
   day: 44
+  part: Day 44
   url: 'q-113'
 
 q-114:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 114'
   segment: 'group-09'
@@ -1256,10 +1369,11 @@ q-114:
   icon: web_stories
   sequence: 114
   day: 44
+  part: Day 44
   url: 'q-114'
 
 q-115:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 115'
   segment: 'group-09'
@@ -1267,10 +1381,11 @@ q-115:
   icon: web_stories
   sequence: 115
   day: 44
+  part: Day 44
   url: 'q-115'
 
 q-116:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 116'
   segment: 'group-10'
@@ -1278,10 +1393,11 @@ q-116:
   icon: web_stories
   sequence: 116
   day: 45
+  part: Day 45
   url: 'q-116'
 
 q-117:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 117'
   segment: 'group-10'
@@ -1289,10 +1405,11 @@ q-117:
   icon: web_stories
   sequence: 117
   day: 45
+  part: Day 45
   url: 'q-117'
 
 q-118:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 118'
   segment: 'group-10'
@@ -1300,10 +1417,11 @@ q-118:
   icon: web_stories
   sequence: 118
   day: 45
+  part: Day 45
   url: 'q-118'
 
 q-119:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 119'
   segment: 'group-10'
@@ -1311,10 +1429,11 @@ q-119:
   icon: web_stories
   sequence: 119
   day: 45
+  part: Day 45
   url: 'q-119'
 
 q-120:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 120'
   segment: 'group-10'
@@ -1322,10 +1441,11 @@ q-120:
   icon: web_stories
   sequence: 120
   day: 46
+  part: Day 46
   url: 'q-120'
 
 q-121:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 121'
   segment: 'group-10'
@@ -1333,76 +1453,83 @@ q-121:
   icon: web_stories
   sequence: 121
   day: 46
+  part: Day 46
   url: 'q-121'
 
 q-122:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 122'
   segment: 'group-10'
   title: 'Hallowed be your name – first petition'
   icon: web_stories
   sequence: 122
-  day: 46
+  day: 47
+  part: Day 47
   url: 'q-122'
 
 q-123:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 123'
   segment: 'group-10'
   title: 'Your kingdom come – second petition'
   icon: web_stories
   sequence: 123
-  day: 47
+  day: 48
+  part: Day 48
   url: 'q-123'
 
 q-124:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 124'
   segment: 'group-10'
   title: 'Your will be done – third petition'
   icon: web_stories
   sequence: 124
-  day: 48
+  day: 49
+  part: Day 49
   url: 'q-124'
 
 q-125:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 125'
   segment: 'group-10'
   title: 'Give us daily bread – fourth petition'
   icon: web_stories
   sequence: 125
-  day: 49
+  day: 50
+  part: Day 50
   url: 'q-125'
 
 q-126:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 126'
   segment: 'group-10'
   title: 'Forgive us our debts – fifth petition'
   icon: web_stories
   sequence: 126
-  day: 50
+  day: 51
+  part: Day 51
   url: 'q-126'
 
 q-127:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 127'
   segment: 'group-10'
   title: 'Lead us not into temptation – sixth petition'
   icon: web_stories
   sequence: 127
-  day: 51
+  day: 52
+  part: Day 52
   url: 'q-127'
 
 q-128:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 128'
   segment: 'group-10'
@@ -1410,10 +1537,11 @@ q-128:
   icon: web_stories
   sequence: 128
   day: 52
+  part: Day 52
   url: 'q-128'
 
 q-129:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Question 129'
   segment: 'group-10'
@@ -1421,10 +1549,10 @@ q-129:
   icon: web_stories
   sequence: 129
   day: 52
+  part: Day 52
   url: 'q-129'
 
 day-1:
-  type: 'Dialog'
   width: max
   header: 'Day 1'
   segment: 'series-01'
@@ -1435,7 +1563,7 @@ day-1:
   url: 'day-1'
 
 day-2:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 2'
   segment: 'series-02'
@@ -1446,7 +1574,7 @@ day-2:
   url: 'day-2'
 
 day-3:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 3'
   segment: 'series-02'
@@ -1457,7 +1585,7 @@ day-3:
   url: 'day-3'
 
 day-4:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 4'
   segment: 'series-02'
@@ -1468,7 +1596,7 @@ day-4:
   url: 'day-4'
 
 day-5:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 5'
   segment: 'series-03'
@@ -1479,7 +1607,7 @@ day-5:
   url: 'day-5'
 
 day-6:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 6'
   segment: 'series-03'
@@ -1490,7 +1618,7 @@ day-6:
   url: 'day-6'
 
 day-7:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 7'
   segment: 'series-03'
@@ -1501,7 +1629,7 @@ day-7:
   url: 'day-7'
 
 day-8:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 8'
   segment: 'series-04'
@@ -1512,7 +1640,7 @@ day-8:
   url: 'day-8'
 
 day-9:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 9'
   segment: 'series-04'
@@ -1523,7 +1651,7 @@ day-9:
   url: 'day-9'
 
 day-10:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 10'
   segment: 'series-04'
@@ -1534,7 +1662,7 @@ day-10:
   url: 'day-10'
 
 day-11:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 11'
   segment: 'series-05'
@@ -1545,7 +1673,7 @@ day-11:
   url: 'day-11'
 
 day-12:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 12'
   segment: 'series-05'
@@ -1556,7 +1684,7 @@ day-12:
   url: 'day-12'
 
 day-13:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 13'
   segment: 'series-05'
@@ -1567,7 +1695,7 @@ day-13:
   url: 'day-13'
 
 day-14:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 14'
   segment: 'series-05'
@@ -1578,7 +1706,7 @@ day-14:
   url: 'day-14'
 
 day-15:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 15'
   segment: 'series-05'
@@ -1589,7 +1717,7 @@ day-15:
   url: 'day-15'
 
 day-16:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 16'
   segment: 'series-05'
@@ -1600,7 +1728,7 @@ day-16:
   url: 'day-16'
 
 day-17:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 17'
   segment: 'series-05'
@@ -1611,7 +1739,7 @@ day-17:
   url: 'day-17'
 
 day-18:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 18'
   segment: 'series-05'
@@ -1622,7 +1750,7 @@ day-18:
   url: 'day-18'
 
 day-19:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 19'
   segment: 'series-05'
@@ -1633,7 +1761,7 @@ day-19:
   url: 'day-19'
 
 day-20:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 20'
   segment: 'series-06'
@@ -1644,7 +1772,7 @@ day-20:
   url: 'day-20'
 
 day-21:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 21'
   segment: 'series-06'
@@ -1655,7 +1783,7 @@ day-21:
   url: 'day-21'
 
 day-22:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 22'
   segment: 'series-06'
@@ -1666,7 +1794,7 @@ day-22:
   url: 'day-22'
 
 day-23:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 23'
   segment: 'series-07'
@@ -1677,7 +1805,7 @@ day-23:
   url: 'day-23'
 
 day-24:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 24'
   segment: 'series-07'
@@ -1688,7 +1816,7 @@ day-24:
   url: 'day-24'
 
 day-25:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 25'
   segment: 'series-08'
@@ -1699,7 +1827,7 @@ day-25:
   url: 'day-25'
 
 day-26:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 26'
   segment: 'series-08'
@@ -1710,7 +1838,7 @@ day-26:
   url: 'day-26'
 
 day-27:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 27'
   segment: 'series-08'
@@ -1721,7 +1849,7 @@ day-27:
   url: 'day-27'
 
 day-28:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 28'
   segment: 'series-08'
@@ -1732,7 +1860,7 @@ day-28:
   url: 'day-28'
 
 day-29:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 29'
   segment: 'series-08'
@@ -1743,7 +1871,7 @@ day-29:
   url: 'day-29'
 
 day-30:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 30'
   segment: 'series-08'
@@ -1754,7 +1882,7 @@ day-30:
   url: 'day-30'
 
 day-31:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 31'
   segment: 'series-08'
@@ -1765,7 +1893,7 @@ day-31:
   url: 'day-31'
 
 day-32:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 32'
   segment: 'series-09'
@@ -1776,7 +1904,7 @@ day-32:
   url: 'day-32'
 
 day-33:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 33'
   segment: 'series-09'
@@ -1787,7 +1915,7 @@ day-33:
   url: 'day-33'
 
 day-34:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 34'
   segment: 'series-10'
@@ -1798,7 +1926,7 @@ day-34:
   url: 'day-34'
 
 day-35:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 35'
   segment: 'series-10'
@@ -1809,7 +1937,7 @@ day-35:
   url: 'day-35'
 
 day-36:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 36'
   segment: 'series-10'
@@ -1820,7 +1948,7 @@ day-36:
   url: 'day-36'
 
 day-37:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 37'
   segment: 'series-10'
@@ -1831,7 +1959,7 @@ day-37:
   url: 'day-37'
 
 day-38:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 38'
   segment: 'series-10'
@@ -1842,7 +1970,7 @@ day-38:
   url: 'day-38'
 
 day-39:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 39'
   segment: 'series-10'
@@ -1853,7 +1981,7 @@ day-39:
   url: 'day-39'
 
 day-40:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 40'
   segment: 'series-10'
@@ -1864,7 +1992,7 @@ day-40:
   url: 'day-40'
 
 day-41:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 41'
   segment: 'series-10'
@@ -1875,7 +2003,7 @@ day-41:
   url: 'day-41'
 
 day-42:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 42'
   segment: 'series-10'
@@ -1886,7 +2014,7 @@ day-42:
   url: 'day-42'
 
 day-43:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 43'
   segment: 'series-10'
@@ -1897,7 +2025,7 @@ day-43:
   url: 'day-43'
 
 day-44:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 44'
   segment: 'series-10'
@@ -1908,7 +2036,7 @@ day-44:
   url: 'day-44'
 
 day-45:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 45'
   segment: 'series-11'
@@ -1919,7 +2047,7 @@ day-45:
   url: 'day-45'
 
 day-46:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 46'
   segment: 'series-11'
@@ -1930,7 +2058,7 @@ day-46:
   url: 'day-46'
 
 day-47:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 47'
   segment: 'series-11'
@@ -1941,7 +2069,7 @@ day-47:
   url: 'day-47'
 
 day-48:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 48'
   segment: 'series-11'
@@ -1952,7 +2080,7 @@ day-48:
   url: 'day-48'
 
 day-49:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 49'
   segment: 'series-11'
@@ -1963,7 +2091,7 @@ day-49:
   url: 'day-49'
 
 day-50:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 50'
   segment: 'series-11'
@@ -1974,7 +2102,7 @@ day-50:
   url: 'day-50'
 
 day-51:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 51'
   segment: 'series-11'
@@ -1985,7 +2113,7 @@ day-51:
   url: 'day-51'
 
 day-52:
-  type: 'Dialog'
+  dialog: true
   width: max
   header: 'Day 52'
   segment: 'series-11'
