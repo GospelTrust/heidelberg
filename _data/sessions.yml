@@ -1553,6 +1553,7 @@ q-129:
   url: 'q-129'
 
 day-1:
+  dialog: true
   width: max
   header: 'Day 1'
   segment: 'series-01'
