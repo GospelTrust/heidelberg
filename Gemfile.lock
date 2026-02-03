@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.8.8)
       public_suffix (>= 2.0.2, < 8.0)
-    askclass-course-theme (0.18.1)
+    askclass-course-theme (0.19.1)
       jekyll (~> 4.2)
     base64 (0.3.0)
     bigdecimal (4.0.1)
